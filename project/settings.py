@@ -63,9 +63,6 @@ else:
 
 if os.environ.get('BUGS_EMAIL'):
     SERVER_EMAIL = os.environ.get('BUGS_EMAIL')
-    ADMINS = (
-        ('mySociety bugs', os.environ.get('BUGS_EMAIL')),
-    )
 
 if os.environ.get('EMAIL_SUBJECT_PREFIX'):
     EMAIL_SUBJECT_PREFIX = os.environ.get('EMAIL_SUBJECT_PREFIX')

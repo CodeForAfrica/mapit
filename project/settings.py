@@ -62,7 +62,7 @@ else:
     CACHE_MIDDLEWARE_KEY_PREFIX = os.environ.get('MAPIT_DB_NAME')
 
 if os.environ.get('BUGS_EMAIL'):
-    SERVER_EMAIL = os.environ.get.('BUGS_EMAIL')
+    SERVER_EMAIL = os.environ.get('BUGS_EMAIL')
     ADMINS = (
         ('mySociety bugs', os.environ.get('BUGS_EMAIL')),
     )

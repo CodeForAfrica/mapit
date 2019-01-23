@@ -62,13 +62,13 @@ else:
     CACHE_MIDDLEWARE_KEY_PREFIX = os.environ.get('MAPIT_DB_NAME')
 
 if os.environ.get('BUGS_EMAIL'):
-    SERVER_EMAIL = config['BUGS_EMAIL']
+    SERVER_EMAIL = os.environ.get.('BUGS_EMAIL')
     ADMINS = (
-        ('mySociety bugs', config['BUGS_EMAIL']),
+        ('mySociety bugs', os.environ.get('BUGS_EMAIL')),
     )
 
 if os.environ.get('EMAIL_SUBJECT_PREFIX'):
-    EMAIL_SUBJECT_PREFIX = config['EMAIL_SUBJECT_PREFIX']
+    EMAIL_SUBJECT_PREFIX = os.environ.get('EMAIL_SUBJECT_PREFIX')
 
 DATABASES = {
     'default': {

@@ -57,6 +57,7 @@ setup(
         'PyYAML',
         'Shapely',
         'uk-postcode-utils',
+        'django-cors-headers',
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',

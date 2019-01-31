@@ -168,6 +168,7 @@ MIDDLEWARE = [
     'django.middleware.http.ConditionalGetMiddleware',
     'django.middleware.cache.UpdateCacheMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
@@ -203,9 +204,11 @@ INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.gis',
     'django.contrib.staticfiles',
+    'corsheaders',
     'mapit',
-]
 
+]
+CORS_ORIGIN_ALLOW_ALL = True
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,

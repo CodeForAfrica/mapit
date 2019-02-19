@@ -67,19 +67,30 @@ if os.environ.get('BUGS_EMAIL'):
 if os.environ.get('EMAIL_SUBJECT_PREFIX'):
     EMAIL_SUBJECT_PREFIX = os.environ.get('EMAIL_SUBJECT_PREFIX')
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.contrib.gis.db.backends.postgis',
+#         'NAME': os.environ.get('MAPIT_DB_NAME', 'mapit'),
+#         'USER': os.environ.get('MAPIT_DB_USER', 'mapit'),
+#         'PASSWORD': os.environ.get('MAPIT_DB_PASS', 'mapit'),
+#         'HOST': os.environ.get('MAPIT_DB_HOST', 'localhost'),
+#         'PORT': os.environ.get('MAPIT_DB_PORT', '5432'),
+#     }
+# }
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': os.environ.get('MAPIT_DB_NAME', ''),
-        'USER': os.environ.get('MAPIT_DB_USER', ''),
-        'PASSWORD': os.environ.get('MAPIT_DB_PASS', ''),
-        'HOST': os.environ.get('MAPIT_DB_HOST', ''),
-        'PORT': os.environ.get('MAPIT_DB_PORT', ''),
+        'NAME': os.environ.get('MAPIT_DB_NAME', 'mapit'),
+        'USER': os.environ.get('MAPIT_DB_USER', 'wazimap'),
+        'PASSWORD': os.environ.get('MAPIT_DB_PASS', 'RqP1LXIOJ2HLtho7s7pFrX'),
+        'HOST': os.environ.get('MAPIT_DB_HOST', 'wazimap.cfgmtx8ishfx.eu-west-1.rds.amazonaws.com'),
+        'PORT': os.environ.get('MAPIT_DB_PORT', '5432'),
     }
 }
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '')
+SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'sgajgauiw7gsdhfh!')
 
 ALLOWED_HOSTS = ['*']
 

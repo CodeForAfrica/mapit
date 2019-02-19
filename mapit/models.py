@@ -319,6 +319,7 @@ class Area(models.Model):
         return (out, content_type)
 
 
+
 @python_2_unicode_compatible
 class Geometry(models.Model):
     area = models.ForeignKey(Area, related_name='polygons', on_delete=models.CASCADE)
@@ -472,3 +473,22 @@ class Postcode(models.Model):
         row = cursor.fetchone()
         m = re.match(r'POINT\((.*?) (.*)\)', row[0])
         return list(map(str2int, m.groups()))
+
+
+
+"""
+code_name = json.load(oepn('/Users/Ahereza/code_name.json', 'r'))
+name_parent = json.load(open('/Users/Ahereza/name_parent.json', 'r'))
+
+for area in Area.objects.filter(country__name='Tanzania'):
+    parent = name_parent.get(area.name)
+    if parent:
+        parent_name = code_name.get(parent)
+        try:
+            parent_area = Area.objects.filter(country__name='Tanzania').get(name=parent_name)
+            area.parent_area = parent_area
+            area.save()
+            print area
+        except Exception as e:
+            print e.message
+"""

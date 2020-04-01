@@ -3537,6 +3537,7 @@
         "name": "country",
         "level": "Nigeria",
         "geoid": "country-NG",
+        "afr_geoid": "country-NG",
         "code": "NG"
       }
     }

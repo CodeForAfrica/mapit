@@ -81,7 +81,7 @@ if os.environ.get('EMAIL_SUBJECT_PREFIX'):
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': os.environ.get('MAPIT_DB_NAME', 'mapit'),
+        'NAME': os.environ.get('MAPIT_DB_NAME', 'hurumapit'),
         'USER': os.environ.get('MAPIT_DB_USER', 'wazimap'),
         'PASSWORD': os.environ.get('MAPIT_DB_PASS', 'RqP1LXIOJ2HLtho7s7pFrX'),
         'HOST': os.environ.get('MAPIT_DB_HOST', 'wazimap.cfgmtx8ishfx.eu-west-1.rds.amazonaws.com'),

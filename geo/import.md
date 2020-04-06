@@ -22,7 +22,7 @@ python manage.py loaddata geo/fixture.json
 python manage.py mapit_import --commit \
         --generation_id=1 --country_code=NG --area_type_code=COUNTRY \
         --name_type_code=Binfo --name_field=name \
-        --code_type=AFR --code_fiel=afr_geoid
+        --code_type=AFR --code_field=afr_geoid \
         geo/Nigeria/country.geojson
 ```
 
@@ -32,7 +32,7 @@ python manage.py mapit_import --commit \
 python manage.py mapit_import --commit \
         --generation_id=1 --country_code=NG --area_type_code=STATE \
         --name_type_code=Binfo --name_field=name \
-        --code_type=AFR --code_fiel=afr_geoid
+        --code_type=AFR --code_field=afr_geoid \
         geo/Nigeria/state.geojson
 ```
 

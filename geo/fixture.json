@@ -30,5 +30,6 @@
     { "pk": 5, "model": "mapit.nametype", "fields": { "code": "UGA", "description": "Ugandan Code Type" } },
     { "pk": 6, "model": "mapit.nametype", "fields": { "code": "ETH", "description": "Ethiopian Code Type" } },
     { "pk": 7, "model": "mapit.nametype", "fields": { "code": "ZWE", "description": "Zimbabwean Code Type" } },
-    { "pk": 8, "model": "mapit.nametype", "fields": { "code": "ZMB", "description": "Zambian Code Type" } }
+    { "pk": 8, "model": "mapit.nametype", "fields": { "code": "ZMB", "description": "Zambian Code Type" } },
+    { "pk": 9, "model": "mapit.nametype", "fields": { "code": "NGA", "description": "Nigerian Code Type" } }
 ]

@@ -13950,6 +13950,7 @@
         "code": 46,
         "name": "Boucle du Mouhoun",
         "geoid": "region-46",
+        "afr_geoid": "level1-BF_1_046",
         "level": "region"
       }
     },
@@ -35502,6 +35503,7 @@
         "code": 47,
         "name": "Cascades",
         "geoid": "region-47",
+        "afr_geoid": "level1-BF_1_047",
         "level": "region"
       }
     },
@@ -38426,6 +38428,7 @@
         "code": 13,
         "name": "Centre",
         "geoid": "region-13",
+        "afr_geoid": "level1-BF_1_013",
         "level": "region"
       }
     },
@@ -48522,6 +48525,7 @@
         "code": 48,
         "name": "Centre-Est",
         "geoid": "region-48",
+        "afr_geoid": "level1-BF_1_048",
         "level": "region"
       }
     },
@@ -56910,6 +56914,7 @@
         "code": 49,
         "name": "Centre-Nord",
         "geoid": "region-49",
+        "afr_geoid": "level1-BF_1_049",
         "level": "region"
       }
     },
@@ -65318,6 +65323,7 @@
         "code": 50,
         "name": "Centre-Ouest",
         "geoid": "region-50",
+        "afr_geoid": "level1-BF_1_050",
         "level": "region"
       }
     },
@@ -73462,6 +73468,7 @@
         "code": 51,
         "name": "Centre-Sud",
         "geoid": "region-51",
+        "afr_geoid": "level1-BF_1_051",
         "level": "region"
       }
     },
@@ -86110,6 +86117,7 @@
         "code": 52,
         "name": "Est",
         "geoid": "region-52",
+        "afr_geoid": "level1-BF_1_052",
         "level": "region"
       }
     },
@@ -105218,6 +105226,7 @@
         "code": 53,
         "name": "Hauts-Bassins",
         "geoid": "region-53",
+        "afr_geoid": "level1-BF_1_053",
         "level": "region"
       }
     },
@@ -109998,6 +110007,7 @@
         "code": 54,
         "name": "Nord",
         "geoid": "region-54",
+        "afr_geoid": "level1-BF_1_054",
         "level": "region"
       }
     },
@@ -117834,6 +117844,7 @@
         "code": 55,
         "name": "Plateau Central",
         "geoid": "region-55",
+        "afr_geoid": "level1-BF_1_055",
         "level": "region"
       }
     },
@@ -125170,6 +125181,7 @@
         "code": 56,
         "name": "Sahel",
         "geoid": "region-56",
+        "afr_geoid": "level1-BF_1_056",
         "level": "region"
       }
     },
@@ -135206,6 +135218,7 @@
         "code": 57,
         "name": "Sud-Ouest",
         "geoid": "region-57",
+        "afr_geoid": "level1-BF_1_057",
         "level": "region"
       }
     }

@@ -28,7 +28,9 @@ services:
       - MAPIT_DB_USER=mapit
       - MAPIT_DB_PASS=mapit
       - MAPIT_DB_HOST=db
-      - MAPIT_DB_PORT=5432
+      - PGUSER=mapit
       - PGPASSWORD=mapit
+      - PGDATABASE=hurumapit
+      - PGHOST=db
       - PYTHONDONTWRITEBYTECODE="True"
       # - DJANGO_DEBUG=False  # For testing deploys

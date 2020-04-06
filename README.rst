@@ -17,6 +17,9 @@ MapIt can be installed as a Django app, or as a standalone server. For full
 details, please see our site at http://code.mapit.mysociety.org/ for help
 and documentation.
 
+The file [import.md](https://github.com/CodeForAfrica/mapit/tree/geo-files/geo) has
+steps on how to import MapIt data.
+
 Examples
 --------
 

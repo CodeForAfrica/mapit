@@ -1,6 +1,17 @@
 ### Importing Data files
 
-1. Create new `generation` to import data into
+On web bash;
+
+1. Run `python manage.py migrate`
+
+
+2. Load mapit country, types and code types from a fixture
+
+```
+python manage.py loaddata geo/fixture.json
+```
+
+3. Create new `generation` to import data into
 
 ```
 python manage.py mapit_generation_create \
@@ -8,13 +19,8 @@ python manage.py mapit_generation_create \
 ```
 For a fresh project, generation with id 1 will be created
 
-2. Create mapit country, types and code types from a fixture
 
-```
-python manage.py loaddata geo/fixture.json
-```
-
-3. Then import geojson files as follows
+4. Then import geojson files as follows
 
 - importing country
 
@@ -36,7 +42,7 @@ python manage.py mapit_import --commit \
         geo/Nigeria/state.geojson
 ```
 
-4. Once you finish importing all geojsons file, you can now activate generation with the following command:
+5. Once you finish importing all geojsons file, you can now activate generation with the following command:
 
 ```
  python manage.py mapit_generation_activate --commit

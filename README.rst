@@ -35,7 +35,7 @@ To get started, clone this repository and spin up docker-containers as shown bel
 - cd mapit
 - docker-compose up
 
-Once containers are up, visit `http:localhost:8000`
+Once containers are up, visit `<http:localhost:8000>`_
 
 Countries' geofiles are available in the folder `geo`.
 The file `import.md <https://github.com/CodeForAfrica/mapit/tree/geo-files/geo>`_ has

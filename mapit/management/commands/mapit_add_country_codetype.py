@@ -29,6 +29,10 @@ def process(afr_code, c_code, c_codetype):
         # An area that existed at the time of the mapping, but no longer
         return
 
+    # Check if already has the right code
+    if c_codetype in area.all_codes and area.all_codes[c_codetype] == c_code:
+        return
+
     try:
         area.codes.create(type=CodeType.objects.get(code=c_codetype), code=c_code)
     except IntegrityError:
@@ -39,6 +43,6 @@ class Command(BaseCommand):
     help = 'Inserts country specific codes into mapit'
 
     def handle(self, **options):
-        for row in open_csv(os.path.join(os.path.dirname(__file__), '../geo/countrygeoid.csv')):
+        for row in open_csv(os.path.join('geo/countrygeoid.csv')):
             afr_code, c_codetype, c_code = row[0], row[1], row[2]
             process(afr_code, c_code, c_codetype)

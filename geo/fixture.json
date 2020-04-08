@@ -23,7 +23,7 @@
     { "pk": 8, "model": "mapit.type", "fields": { "code": "REGION", "description": "Region Code" } },
     { "pk": 9, "model": "mapit.type", "fields": { "code": "WARD", "description": "Ward Code" } },
     { "pk": 10, "model": "mapit.type", "fields": { "code": "STATE", "description": "State Code" } },
-    { "pk": 11, "model": "mapit.type", "fields": { "code": "LOCAL GVT", "description": "Local Government Code" } },
+    { "pk": 11, "model": "mapit.type", "fields": { "code": "LOCAL-GVT", "description": "Local Government Code" } },
     { "pk": 1, "model": "mapit.codetype", "fields": { "code": "AFR", "description": "Africa Code" } },
     { "pk": 2, "model": "mapit.codetype", "fields": { "code": "HDX", "description": "data.humdata.org" } },
     { "pk": 3, "model": "mapit.codetype", "fields": { "code": "TZA", "description": "Tanzanian Administration Code Type" } },

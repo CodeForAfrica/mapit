@@ -20,7 +20,7 @@ python manage.py mapit_generation_create \
 For a fresh project, generation with id 1 will be created
 
 
-4. Then import geojson files as follows
+4. Then import geojson files as follows. Nigeria as example
 
 - importing country
 
@@ -42,9 +42,25 @@ python manage.py mapit_import --commit \
         geo/Nigeria/state.geojson
 ```
 
-5. Once you finish importing all geojsons file, you can now activate generation with the following command:
+- importing local government areas
+
+```
+python manage.py mapit_import --commit \
+        --generation_id=1 --country_code=NG --area_type_code=LOCAL-GVT \
+        --name_type_code=Binfo --name_field=name \
+        --code_type=AFR --code_field=afr_geoid \
+        geo/Nigeria/local_government.geojson
+```
+
+5. Once you finish importing all countries geojsons file, you can now activate generation with the following command:
 
 ```
  python manage.py mapit_generation_activate --commit
 
+```
+
+For country based application, we import country based codes. To do so you can run
+
+```
+ python manage.py mapit_add_country_codetype
 ```

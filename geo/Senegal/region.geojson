@@ -4473,7 +4473,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_001", 
+            "afr_geoid": "level1-SN_1_001", 
             "code": 1, 
             "geoid": "region-1", 
             "name": "Dakar", 
@@ -6978,7 +6978,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_002", 
+            "afr_geoid": "level1-SN_1_002", 
             "code": 2, 
             "geoid": "region-2", 
             "name": "Diourbel", 
@@ -12607,7 +12607,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_003", 
+            "afr_geoid": "level1-SN_1_003", 
             "code": 3, 
             "geoid": "region-3", 
             "name": "Fatick", 
@@ -16192,7 +16192,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_004", 
+            "afr_geoid": "level1-SN_1_004", 
             "code": 4, 
             "geoid": "region-4", 
             "name": "Kaffrine", 
@@ -20893,7 +20893,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_005", 
+            "afr_geoid": "level1-SN_1_005", 
             "code": 5, 
             "geoid": "region-5", 
             "name": "Kaolack", 
@@ -35310,7 +35310,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_006", 
+            "afr_geoid": "level1-SN_1_006", 
             "code": 6, 
             "geoid": "region-6", 
             "name": "Kedougou", 
@@ -45895,7 +45895,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_007", 
+            "afr_geoid": "level1-SN_1_007", 
             "code": 7, 
             "geoid": "region-7", 
             "name": "Kolda", 
@@ -49108,7 +49108,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_008", 
+            "afr_geoid": "level1-SN_1_008", 
             "code": 8, 
             "geoid": "region-8", 
             "name": "Louga", 
@@ -55357,7 +55357,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_009", 
+            "afr_geoid": "level1-SN_1_009", 
             "code": 9, 
             "geoid": "region-9", 
             "name": "Matam", 
@@ -62470,7 +62470,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_010", 
+            "afr_geoid": "level1-SN_1_010", 
             "code": 10, 
             "geoid": "region-10", 
             "name": "Saint Louis", 
@@ -66919,7 +66919,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_011", 
+            "afr_geoid": "level1-SN_1_011", 
             "code": 11, 
             "geoid": "region-11", 
             "name": "Sedhiou", 
@@ -91158,7 +91158,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_012", 
+            "afr_geoid": "level1-SN_1_012", 
             "code": 12, 
             "geoid": "region-12", 
             "name": "Tambacounda", 
@@ -95643,7 +95643,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_013", 
+            "afr_geoid": "level1-SN_1_013", 
             "code": 13, 
             "geoid": "region-13", 
             "name": "Thies", 
@@ -100028,7 +100028,7 @@
          }, 
          "type": "Feature", 
          "properties": {
-            "afr_geoid": "level1-SE_1_014", 
+            "afr_geoid": "level1-SN_1_014", 
             "code": 14, 
             "geoid": "region-14", 
             "name": "Ziguinchor", 

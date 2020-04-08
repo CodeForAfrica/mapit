@@ -579,20 +579,20 @@ level1-NG_1_035,NGA,state-35,Taraba
 level1-NG_1_036,NGA,state-36,Yobe
 level1-NG_1_037,NGA,state-37,Zamfara
 country-SN,SEN,country-SN,Senegal
-level1-SE_1_001,SEN,region-1,Dakar
-level1-SE_1_002,SEN,region-2,Diourbel
-level1-SE_1_003,SEN,region-3,Fatick
-level1-SE_1_004,SEN,region-4,Kaffrine
-level1-SE_1_005,SEN,region-5,Kaolack
-level1-SE_1_006,SEN,region-6,Kedougou
-level1-SE_1_007,SEN,region-7,Kolda
-level1-SE_1_008,SEN,region-8,Louga
-level1-SE_1_009,SEN,region-9,Matam
-level1-SE_1_010,SEN,region-10,Saint Louis
-level1-SE_1_011,SEN,region-11,Sedhiou
-level1-SE_1_012,SEN,region-12,Tambacounda
-level1-SE_1_013,SEN,region-13,Thies
-level1-SE_1_014,SEN,region-14,Ziguinchor
+level1-SN_1_001,SEN,region-1,Dakar
+level1-SN_1_002,SEN,region-2,Diourbel
+level1-SN_1_003,SEN,region-3,Fatick
+level1-SN_1_004,SEN,region-4,Kaffrine
+level1-SN_1_005,SEN,region-5,Kaolack
+level1-SN_1_006,SEN,region-6,Kedougou
+level1-SN_1_007,SEN,region-7,Kolda
+level1-SN_1_008,SEN,region-8,Louga
+level1-SN_1_009,SEN,region-9,Matam
+level1-SN_1_010,SEN,region-10,Saint Louis
+level1-SN_1_011,SEN,region-11,Sedhiou
+level1-SN_1_012,SEN,region-12,Tambacounda
+level1-SN_1_013,SEN,region-13,Thies
+level1-SN_1_014,SEN,region-14,Ziguinchor
 level2-NG_2_001001,NGA,local_government_area-1001,Aba North
 level2-NG_2_001002,NGA,local_government_area-1002,Aba South
 level2-NG_2_008001,NGA,local_government_area-8001,Abadam

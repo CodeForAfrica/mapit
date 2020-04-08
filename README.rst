@@ -38,7 +38,7 @@ To get started, clone this repository and spin up docker-containers as shown bel
 Once containers are up, visit `<http:localhost:8000>`_
 
 Countries' geofiles are available in the folder `geo`.
-The file `import.md <https://github.com/CodeForAfrica/mapit/tree/geo-files/geo>`_ has
+The file `import.md <https://github.com/CodeForAfrica/mapit/tree/geo-files/geo/import.md>`_ has
 steps on how to import MapIt data. Make sure you're on the web container bash to run import commands.
 
 Use MAPIT API documentation displayed on landing page to understand the web services.

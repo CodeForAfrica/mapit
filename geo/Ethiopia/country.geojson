@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[{
     "type":"Feature","properties":{
-        "name":"Ethiopia","level":"country","code":"ET","geoid":"country-ET"},
+        "name":"Ethiopia","level":"country","code":"ET","geoid":"country-ET", "afr_geoid":"country-ET"},
         "geometry":{
             "type":"Polygon",
             "coordinates": [[

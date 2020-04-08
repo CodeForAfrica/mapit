@@ -17,8 +17,31 @@ MapIt can be installed as a Django app, or as a standalone server. For full
 details, please see our site at http://code.mapit.mysociety.org/ for help
 and documentation.
 
-The file [import.md](https://github.com/CodeForAfrica/mapit/tree/geo-files/geo) has
-steps on how to import MapIt data.
+Mapit Africa
+-------------
+Mapit Africa (mapit.hurumap.org) uses the django app 
+`project <https://github.com/CodeForAfrica/mapit/tree/geo-files/project>`_ to host administrative 
+areas geographical boundaries and maps geographical points for more than 10 African countries.
+
+Development
+```````````
+We use docker-based environment for development and deployment. Refer to the 
+`docker-compose.yml <https://github.com/TakwimuAfrica/Dashboard/blob/master/docker-compose.yml>`_ file.
+
+To get started, clone this repository and spin up docker-containers as shown below. 
+
+
+- git clone git@github.com:CodeforAfrica/mapit.git
+- cd mapit
+- docker-compose up
+
+Once containers are up, visit `http:localhost:8000`
+
+Countries' geofiles are available in the folder `geo`.
+The file `import.md <https://github.com/CodeForAfrica/mapit/tree/geo-files/geo>`_ has
+steps on how to import MapIt data. Make sure you're on the web container bash to run import commands.
+
+Use MAPIT API documentation displayed on landing page to understand the web services.
 
 Examples
 --------

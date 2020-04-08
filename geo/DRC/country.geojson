@@ -53918,7 +53918,8 @@
         "name": "Democratic Republic of Congo",
         "code": "CD",
         "level": "country",
-        "geoid": "country-CD"
+        "geoid": "country-CD",
+        "afr_geoid": "country-CD"
       }
     }
   ]

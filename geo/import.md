@@ -59,6 +59,12 @@ python manage.py mapit_import --commit \
 
 ```
 
+To map area with parent, run the following command which uses the `geos_parent_map.csv` to load parent areas
+
+```
+ python manage.py mapit_load_parent_area
+```
+
 For country based application, we import country based codes. To do so you can run
 
 ```

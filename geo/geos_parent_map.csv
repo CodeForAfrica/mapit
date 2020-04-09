@@ -1,0 +1,2110 @@
+continent-AFR,,Africa
+country-NG,continent-AFR,Nigeria
+country-SN,continent-AFR,Senegal
+country-TZ,continent-AFR,Tanzania
+level1-NG_1_006,country-NG,Bayelsa
+level1-NG_1_007,country-NG,Benue
+level1-NG_1_008,country-NG,Borno
+level1-NG_1_009,country-NG,Cross River
+level1-NG_1_010,country-NG,Delta
+level1-NG_1_011,country-NG,Ebonyi
+level1-NG_1_012,country-NG,Edo
+level1-NG_1_013,country-NG,Ekiti
+level1-NG_1_014,country-NG,Enugu
+level1-NG_1_015,country-NG,Federal Capital Territory
+level1-NG_1_016,country-NG,Gombe
+level1-NG_1_017,country-NG,Imo
+level1-NG_1_018,country-NG,Jigawa
+level1-NG_1_019,country-NG,Kaduna
+level1-NG_1_020,country-NG,Kano
+level1-NG_1_021,country-NG,Katsina
+level1-NG_1_022,country-NG,Kebbi
+level1-NG_1_023,country-NG,Kogi
+level1-NG_1_024,country-NG,Kwara
+level1-NG_1_025,country-NG,Lagos
+level1-NG_1_026,country-NG,Nasarawa
+level1-NG_1_027,country-NG,Niger
+level1-NG_1_028,country-NG,Ogun
+level1-NG_1_029,country-NG,Ondo
+level1-NG_1_030,country-NG,Osun
+level1-NG_1_031,country-NG,Oyo
+level1-NG_1_032,country-NG,Plateau
+level1-NG_1_033,country-NG,Rivers
+level1-NG_1_034,country-NG,Sokoto
+level1-NG_1_035,country-NG,Taraba
+level1-NG_1_036,country-NG,Yobe
+level1-NG_1_037,country-NG,Zamfara
+level1-SN_1_001,country-SN,Dakar
+level1-SN_1_002,country-SN,Diourbel
+level1-SN_1_003,country-SN,Fatick
+level1-SN_1_004,country-SN,Kaffrine
+level1-SN_1_005,country-SN,Kaolack
+level1-SN_1_006,country-SN,Kedougou
+level1-SN_1_007,country-SN,Kolda
+level1-SN_1_008,country-SN,Louga
+level1-SN_1_009,country-SN,Matam
+level1-SN_1_010,country-SN,Saint Louis
+level1-SN_1_011,country-SN,Sedhiou
+level1-SN_1_012,country-SN,Tambacounda
+level1-SN_1_013,country-SN,Thies
+level1-SN_1_014,country-SN,Ziguinchor
+level1-TZ_1_022,country-TZ,Pwani
+level1-TZ_1_026,country-TZ,Simiyu
+level1-TZ_1_004,country-TZ,Geita
+level1-TZ_1_027,country-TZ,Singida
+level1-TZ_1_005,country-TZ,Iringa
+level1-TZ_1_023,country-TZ,Rukwa
+level1-TZ_1_006,country-TZ,Kagera
+level1-TZ_1_010,country-TZ,Kigoma
+level1-TZ_1_014,country-TZ,Lindi
+level1-TZ_1_002,country-TZ,Dar es salaam
+level1-TZ_1_003,country-TZ,Dodoma
+level1-TZ_1_028,country-TZ,Tanga
+level1-TZ_1_019,country-TZ,Mtwara
+level1-TZ_1_021,country-TZ,Njombe
+level1-TZ_1_029,country-TZ,Tabora
+level1-TZ_1_011,country-TZ,Kilimanjaro
+level1-TZ_1_025,country-TZ,Shinyanga
+level1-TZ_1_016,country-TZ,Mara
+level1-TZ_1_024,country-TZ,Ruvuma
+level1-TZ_1_020,country-TZ,Mwanza
+level1-TZ_1_017,country-TZ,Mbeya
+level1-TZ_1_001,country-TZ,Arusha
+level1-TZ_1_018,country-TZ,Morogoro
+level1-TZ_1_009,country-TZ,Katavi
+level1-TZ_1_015,country-TZ,Manyara
+level1-TZ_1_012,country-TZ,Kusini Pemba
+level1-TZ_1_008,country-TZ,Kaskazini Unguja
+level1-TZ_1_013,country-TZ,Kusini Unguja
+level1-TZ_1_030,country-TZ,Mjini Magharibi
+level1-TZ_1_007,country-TZ,Kaskazini Pemba
+level1-NG_1_001,country-NG,Abia
+level1-NG_1_002,country-NG,Adamawa
+level1-NG_1_003,country-NG,Akwa Ibom
+level1-NG_1_004,country-NG,Anambra
+level1-NG_1_005,country-NG,Bauchi
+level1-KE_1_020,country-KE,Kirinyaga
+level1-KE_1_021,country-KE,Murang'a
+level1-KE_1_018,country-KE,Nyandarua
+level1-KE_1_019,country-KE,Nyeri
+level1-KE_1_024,country-KE,West Pokot
+level1-KE_1_025,country-KE,Samburu
+level1-KE_1_022,country-KE,Kiambu
+level1-KE_1_023,country-KE,Turkana
+level1-KE_1_028,country-KE,Elgeyo-Marakwet
+level1-KE_1_029,country-KE,Nandi
+level1-KE_1_026,country-KE,Trans-Nzoia
+level1-KE_1_027,country-KE,Uasin Gishu
+level1-KE_1_032,country-KE,Nakuru
+level1-KE_1_033,country-KE,Narok
+level1-KE_1_030,country-KE,Baringo
+level1-KE_1_031,country-KE,Laikipia
+level1-KE_1_036,country-KE,Bomet
+level1-KE_1_037,country-KE,Kakamega
+level1-KE_1_034,country-KE,Kajiado
+level1-KE_1_035,country-KE,Kericho
+level1-KE_1_040,country-KE,Busia
+level1-KE_1_041,country-KE,Siaya
+level1-KE_1_038,country-KE,Vihiga
+level1-KE_1_039,country-KE,Bungoma
+level1-KE_1_044,country-KE,Migori
+level1-KE_1_045,country-KE,Kisii
+level1-KE_1_042,country-KE,Kisumu
+level1-KE_1_043,country-KE,Homa Bay
+level1-KE_1_046,country-KE,Nyamira
+level1-KE_1_047,country-KE,Nairobi
+country-KE,continent-AFR,Kenya
+level1-KE_1_001,country-KE,Mombasa
+level1-KE_1_004,country-KE,Tana River
+level1-KE_1_005,country-KE,Lamu
+level1-KE_1_002,country-KE,Kwale
+level1-KE_1_003,country-KE,Kilifi
+level1-KE_1_008,country-KE,Wajir
+level1-KE_1_009,country-KE,Mandera
+level1-KE_1_006,country-KE,Taita Taveta
+level1-KE_1_007,country-KE,Garissa
+level1-KE_1_012,country-KE,Meru
+level1-KE_1_013,country-KE,Tharaka-Nithi
+level1-KE_1_010,country-KE,Marsabit
+level1-KE_1_011,country-KE,Isiolo
+level1-KE_1_016,country-KE,Machakos
+level1-KE_1_017,country-KE,Makueni
+level1-KE_1_014,country-KE,Embu
+level1-KE_1_015,country-KE,Kitui
+country-ET,continent-AFR,Ethiopia
+level1-ET_1_001,country-ET,Addis Ababa
+level1-ET_1_002,country-ET,Afar
+level1-ET_1_003,country-ET,Amhara
+level1-ET_1_004,country-ET,Beneshangul Gumuz
+level1-ET_1_005,country-ET,Dire Dawa
+level1-ET_1_006,country-ET,Gambella
+level1-ET_1_007,country-ET,Harar
+level1-ET_1_008,country-ET,Oromiya
+level1-ET_1_009,country-ET,SNNPR
+level1-ET_1_010,country-ET,Somali
+level1-ET_1_011,country-ET,Tigray
+country-ZA,continent-AFR,South Africa
+level1-ZA_1_005,country-ZA,KwaZulu-Natal
+level1-ZA_1_004,country-ZA,Free State
+level1-ZA_1_002,country-ZA,Eastern Cape
+level1-ZA_1_008,country-ZA,Mpumalanga
+level1-ZA_1_009,country-ZA,Limpopo
+level1-ZA_1_003,country-ZA,Northern Cape
+level1-ZA_1_006,country-ZA,North West
+level1-ZA_1_001,country-ZA,Western Cape
+level1-ZA_1_007,country-ZA,Gauteng
+country-UG,continent-AFR,Uganda
+country-ZM,continent-AFR,Zambia
+country-BF,continent-AFR,Burkina Faso
+country-CD,continent-AFR,Democratic Republic of Congo
+country-GH,continent-AFR,Ghana
+level2-GH_2_033001,level1-GH_1_033,Ahanta West
+level2-GH_2_033012,level1-GH_1_033,Shama Ahanta East
+level2-GH_2_026008,level1-GH_1_026,Cape Coast
+level2-GH_2_026010,level1-GH_1_026,Komenda/Edina Aguafo
+level2-GH_2_033010,level1-GH_1_033,Nzema East
+level2-GH_2_026001,level1-GH_1_026,Abura/Asebu/Kwamankese
+level2-GH_2_033007,level1-GH_1_033,Jomoro
+level2-GH_2_026011,level1-GH_1_026,Mfantsiman
+level2-GH_2_026003,level1-GH_1_026,Ajumako Enyan
+level2-GH_2_026009,level1-GH_1_026,Gomoa
+level2-GH_2_033009,level1-GH_1_033,Mpohor Wassa
+level2-GH_2_033013,level1-GH_1_033,Wassa West
+level2-GH_2_028001,level1-GH_1_028,Accra
+level2-GH_2_026007,level1-GH_1_026,Awutu/Efutu/Senya
+level2-GH_2_026002,level1-GH_1_026,Agona
+level2-GH_2_026006,level1-GH_1_026,Assin South
+level2-GH_2_026004,level1-GH_1_026,Asikuma/Odoben/Brakwa
+level2-GH_2_028004,level1-GH_1_028,Ga East
+level2-GH_2_028005,level1-GH_1_028,Ga West
+level2-GH_2_026012,level1-GH_1_026,Twifu Heman/Lower Denkyira
+level2-GH_2_028006,level1-GH_1_028,Tema
+level2-GH_2_027003,level1-GH_1_027,Akwapim South
+level2-GH_2_026005,level1-GH_1_026,Assin North
+level2-GH_2_028002,level1-GH_1_028,Dangbe East
+level2-GH_2_027016,level1-GH_1_027,West Akim
+level2-GH_2_027007,level1-GH_1_027,Birim South
+level2-GH_2_032007,level1-GH_1_032,Keta
+level2-GH_2_028003,level1-GH_1_028,Dangbe West
+level2-GH_2_033003,level1-GH_1_033,Amenfi West (Wassa Amenfi)
+level2-GH_2_033002,level1-GH_1_033,Amenfi East
+level2-GH_2_024003,level1-GH_1_024,Adansi West
+level2-GH_2_027015,level1-GH_1_027,Suhum/Kraboa/Coaltar
+level2-GH_2_027002,level1-GH_1_027,Akwapim North
+level2-GH_2_032015,level1-GH_1_032,South Tongu
+level2-GH_2_033004,level1-GH_1_033,Aowin Suaman
+level2-GH_2_027014,level1-GH_1_027,New Juaben
+level2-GH_2_026013,level1-GH_1_026,Upper Denkyira
+level2-GH_2_024001,level1-GH_1_024,Adansi East
+level2-GH_2_032008,level1-GH_1_032,Ketu
+level2-GH_2_027017,level1-GH_1_027,Yilo Krobo
+level2-GH_2_032013,level1-GH_1_032,North Tongu
+level2-GH_2_024002,level1-GH_1_024,Adansi North
+level2-GH_2_027008,level1-GH_1_027,East Akim
+level2-GH_2_027010,level1-GH_1_027,Kwaebibirem
+level2-GH_2_032002,level1-GH_1_032,Akatsi
+level2-GH_2_024007,level1-GH_1_024,Amansie Central
+level2-GH_2_027005,level1-GH_1_027,Atiwa
+level2-GH_2_033006,level1-GH_1_033,Bibiani Anhwiaso-Bekwai
+level2-GH_2_033011,level1-GH_1_033,Sefwi-Wiawso
+level2-GH_2_024008,level1-GH_1_024,Amansie East
+level2-GH_2_027006,level1-GH_1_027,Birim North
+level2-GH_2_027004,level1-GH_1_027,Asuogyaman
+level2-GH_2_027013,level1-GH_1_027,Manya Krobo
+level2-GH_2_024009,level1-GH_1_024,Amansie West
+level2-GH_2_027012,level1-GH_1_027,Kwahu West
+level2-GH_2_032001,level1-GH_1_032,Adaklu Anyigbe
+level2-GH_2_027009,level1-GH_1_027,Fanteakwa
+level2-GH_2_024014,level1-GH_1_024,Bosomtwi Kwanwoma
+level2-GH_2_024011,level1-GH_1_024,Asante Akim South
+level2-GH_2_024017,level1-GH_1_024,Kumasi
+level2-GH_2_024012,level1-GH_1_024,Atwima Mponua
+level2-GH_2_032014,level1-GH_1_032,South Dayi
+level2-GH_2_025002,level1-GH_1_025,Asunafo South
+level2-GH_2_033008,level1-GH_1_033,Juabeso
+level2-GH_2_024016,level1-GH_1_024,Ejusu/Juabeni
+level2-GH_2_027011,level1-GH_1_027,Kwahu South
+level2-GH_2_024018,level1-GH_1_024,Kwabere
+level2-GH_2_032003,level1-GH_1_032,Ho
+level2-GH_2_024013,level1-GH_1_024,Atwima Nwabiagya
+level2-GH_2_025001,level1-GH_1_025,Asunafo North
+level2-GH_2_033005,level1-GH_1_033,Bia
+level2-GH_2_024010,level1-GH_1_024,Asante Akim North
+level2-GH_2_024005,level1-GH_1_024,Ahafo Ano North
+level2-GH_2_032009,level1-GH_1_032,Kpandu
+level2-GH_2_024006,level1-GH_1_024,Ahafo Ano South
+level2-GH_2_024004,level1-GH_1_024,Afigya Sekyere
+level2-GH_2_025003,level1-GH_1_025,Asutifi
+level2-GH_2_027001,level1-GH_1_027,Afram Plains
+level2-GH_2_032004,level1-GH_1_032,Hohoe
+level2-GH_2_025017,level1-GH_1_025,Tano South
+level2-GH_2_025016,level1-GH_1_025,Tano North
+level2-GH_2_024019,level1-GH_1_024,Offinso
+level2-GH_2_025006,level1-GH_1_025,Dormaa
+level2-GH_2_032005,level1-GH_1_032,Jasikan
+level2-GH_2_024021,level1-GH_1_024,Sekyere West
+level2-GH_2_024020,level1-GH_1_024,Sekyere East
+level2-GH_2_025014,level1-GH_1_025,Sunyani
+level2-GH_2_025005,level1-GH_1_025,Berekum
+level2-GH_2_024015,level1-GH_1_024,Ejura-Sekyedumasi
+level2-GH_2_025015,level1-GH_1_025,Tain
+level2-GH_2_025011,level1-GH_1_025,Nkoranza
+level2-GH_2_025018,level1-GH_1_025,Techiman
+level2-GH_2_025004,level1-GH_1_025,Atebubu
+level2-GH_2_025008,level1-GH_1_025,Jaman South
+level2-GH_2_032006,level1-GH_1_032,Kadjebi
+level2-GH_2_025007,level1-GH_1_025,Jaman North
+level2-GH_2_025013,level1-GH_1_025,Sene
+level2-GH_2_025010,level1-GH_1_025,Kintampo South
+level2-GH_2_032010,level1-GH_1_032,Krachi East
+level2-GH_2_032011,level1-GH_1_032,Krachi West
+level2-GH_2_025012,level1-GH_1_025,Pru
+level2-GH_2_029008,level1-GH_1_029,Kpandai
+level2-GH_2_025009,level1-GH_1_025,Kintampo North
+level2-GH_2_032012,level1-GH_1_032,Nkwanta
+level2-GH_2_025019,level1-GH_1_025,Wenchi
+level2-GH_2_029010,level1-GH_1_029,Nanumba South
+level2-GH_2_029001,level1-GH_1_029,Bole
+level2-GH_2_029009,level1-GH_1_029,Nanumba North
+level2-GH_2_029004,level1-GH_1_029,East Gonja
+level2-GH_2_029003,level1-GH_1_029,Central Gonja
+level2-GH_2_029019,level1-GH_1_029,Zabzugu/Tatale
+level2-GH_2_029014,level1-GH_1_029,Tamale
+level2-GH_2_029018,level1-GH_1_029,Yendi
+level2-GH_2_029013,level1-GH_1_029,Sawla/Tuna/Kalba
+level2-GH_2_029015,level1-GH_1_029,Tolon/Kumbungu
+level2-GH_2_029016,level1-GH_1_029,West Gonja
+level2-GH_2_029012,level1-GH_1_029,Savelgu/Nanton
+level2-GH_2_031008,level1-GH_1_031,Wa West
+level2-GH_2_031007,level1-GH_1_031,Wa Municipal
+level2-GH_2_029007,level1-GH_1_029,Karaga
+level2-GH_2_031006,level1-GH_1_031,Wa East
+level2-GH_2_029006,level1-GH_1_029,Gushiegu
+level2-GH_2_029011,level1-GH_1_029,Saboba/Chereponi
+level2-GH_2_031003,level1-GH_1_031,Nadowli
+level2-GH_2_029005,level1-GH_1_029,East Mamprusi
+level2-GH_2_029017,level1-GH_1_029,West Mamprusi
+level2-GH_2_029002,level1-GH_1_029,Bunkpurugu/Yunyoo
+level2-GH_2_030003,level1-GH_1_030,Bolgatanga
+level2-GH_2_030005,level1-GH_1_030,Builsa
+level2-GH_2_030008,level1-GH_1_030,Talensi-Nabdam
+level2-GH_2_031005,level1-GH_1_031,Sissala West
+level2-GH_2_030004,level1-GH_1_030,Bongo
+level2-GH_2_031001,level1-GH_1_031,Jirapa/Lambussie
+level2-GH_2_031002,level1-GH_1_031,Lawra
+level2-GH_2_030007,level1-GH_1_030,Kasena/Nankani
+level2-GH_2_031004,level1-GH_1_031,Sissala East
+level2-GH_2_030006,level1-GH_1_030,Garu Tempane
+level2-GH_2_030002,level1-GH_1_030,Bakwu West
+level2-GH_2_030001,level1-GH_1_030,Bakwu East
+level1-GH_1_033,country-GH,Western
+level1-GH_1_026,country-GH,Central
+level1-GH_1_028,country-GH,Greater Accra
+level1-GH_1_027,country-GH,Eastern
+level1-GH_1_032,country-GH,Volta
+level1-GH_1_024,country-GH,Ashanti
+level1-GH_1_025,country-GH,Brong Ahafo
+level1-GH_1_029,country-GH,Northern
+level1-GH_1_030,country-GH,Upper East
+level1-GH_1_031,country-GH,Upper West
+level2-NG_2_001001,level1-NG_1_001,Aba North
+level2-NG_2_001002,level1-NG_1_001,Aba South
+level2-NG_2_008001,level1-NG_1_008,Abadam
+level2-NG_2_015001,level1-NG_1_015,Abaji
+level2-NG_2_003001,level1-NG_1_003,Abak
+level2-NG_2_011001,level1-NG_1_011,Abakaliki
+level2-NG_2_028001,level1-NG_1_028,Abeokuta North
+level2-NG_2_028002,level1-NG_1_028,Abeokuta South
+level2-NG_2_009001,level1-NG_1_009,Abi
+level2-NG_2_017001,level1-NG_1_017,Aboh-Mbaise
+level2-NG_2_033001,level1-NG_1_033,Abua/Odual
+level2-NG_2_015002,level1-NG_1_015,Abuja Municipal
+level2-NG_2_023001,level1-NG_1_023,Adavi
+level2-NG_2_007001,level1-NG_1_007,Ado
+level2-NG_2_028003,level1-NG_1_028,Ado-Odo/Ota
+level2-NG_2_013001,level1-NG_1_013,Ado Ekiti
+level2-NG_2_031001,level1-NG_1_031,Afijio
+level2-NG_2_011002,level1-NG_1_011,Afikpo North
+level2-NG_2_011003,level1-NG_1_011,Afikpo South
+level2-NG_2_027001,level1-NG_1_027,Agaie
+level2-NG_2_007002,level1-NG_1_007,Agatu
+level2-NG_2_025001,level1-NG_1_025,Agege
+level2-NG_2_004001,level1-NG_1_004,Aguata
+level2-NG_2_027002,level1-NG_1_027,Agwara
+level2-NG_2_017002,level1-NG_1_017,Ahiazu-Mbaise
+level2-NG_2_033002,level1-NG_1_033,Ahoada East
+level2-NG_2_033003,level1-NG_1_033,Ahoada West
+level2-NG_2_030001,level1-NG_1_030,Aiyedade
+level2-NG_2_030002,level1-NG_1_030,Aiyedire
+level2-NG_2_013002,level1-NG_1_013,Aiyekire (Gbonyin)
+level2-NG_2_023002,level1-NG_1_023,Ajaokuta
+level2-NG_2_025002,level1-NG_1_025,Ajeromi-Ifelodun
+level2-NG_2_020001,level1-NG_1_020,Ajingi
+level2-NG_2_009002,level1-NG_1_009,Akamkpa
+level2-NG_2_031002,level1-NG_1_031,Akinyele
+level2-NG_2_016001,level1-NG_1_016,Akko
+level2-NG_2_012001,level1-NG_1_012,Akoko-Edo
+level2-NG_2_029001,level1-NG_1_029,Akoko North East
+level2-NG_2_029002,level1-NG_1_029,Akoko North West
+level2-NG_2_029003,level1-NG_1_029,Akoko South East
+level2-NG_2_029004,level1-NG_1_029,Akoko South West
+level2-NG_2_009003,level1-NG_1_009,Akpabuyo
+level2-NG_2_033004,level1-NG_1_033,Akuku Toru
+level2-NG_2_029005,level1-NG_1_029,Akure North
+level2-NG_2_029006,level1-NG_1_029,Akure South
+level2-NG_2_026001,level1-NG_1_026,Akwanga
+level2-NG_2_020002,level1-NG_1_020,Albasu
+level2-NG_2_022001,level1-NG_1_022,Aleiro
+level2-NG_2_025003,level1-NG_1_025,Alimosho
+level2-NG_2_005001,level1-NG_1_005,Alkaleri
+level2-NG_2_025004,level1-NG_1_025,Amuwo-Odofin
+level2-NG_2_004002,level1-NG_1_004,Anambra East
+level2-NG_2_004003,level1-NG_1_004,Anambra West
+level2-NG_2_004004,level1-NG_1_004,Anaocha
+level2-NG_2_033005,level1-NG_1_033,Andoni
+level2-NG_2_014001,level1-NG_1_014,Aninri
+level2-NG_2_010001,level1-NG_1_010,Aniocha North
+level2-NG_2_010002,level1-NG_1_010,Aniocha South
+level2-NG_2_037001,level1-NG_1_037,Anka
+level2-NG_2_023003,level1-NG_1_023,Ankpa
+level2-NG_2_007003,level1-NG_1_007,Apa
+level2-NG_2_025005,level1-NG_1_025,Apapa
+level2-NG_2_035001,level1-NG_1_035,Ardo-Kola
+level2-NG_2_022002,level1-NG_1_022,Arewa-Dandi
+level2-NG_2_022003,level1-NG_1_022,Argungu
+level2-NG_2_001003,level1-NG_1_001,Arochukwu
+level2-NG_2_024001,level1-NG_1_024,Asa
+level2-NG_2_033006,level1-NG_1_033,Asari-Toru
+level2-NG_2_008002,level1-NG_1_008,Askira/Uba
+level2-NG_2_030003,level1-NG_1_030,Atakumosa East
+level2-NG_2_030004,level1-NG_1_030,Atakumosa West
+level2-NG_2_031003,level1-NG_1_031,Atiba
+level2-NG_2_031004,level1-NG_1_031,Atigbo
+level2-NG_2_022004,level1-NG_1_022,Augie
+level2-NG_2_018001,level1-NG_1_018,Auyo
+level2-NG_2_026002,level1-NG_1_026,Awe
+level2-NG_2_014002,level1-NG_1_014,Awgu
+level2-NG_2_004005,level1-NG_1_004,Awka North
+level2-NG_2_004006,level1-NG_1_004,Awka South
+level2-NG_2_004007,level1-NG_1_004,Ayamelum
+level2-NG_2_018002,level1-NG_1_018,Babura
+level2-NG_2_025006,level1-NG_1_025,Badagry
+level2-NG_2_036001,level1-NG_1_036,Bade
+level2-NG_2_022005,level1-NG_1_022,Bagudo
+level2-NG_2_020003,level1-NG_1_020,Bagwai
+level2-NG_2_009005,level1-NG_1_009,Bakassi
+level2-NG_2_021001,level1-NG_1_021,Bakori
+level2-NG_2_037002,level1-NG_1_037,Bakura
+level2-NG_2_016002,level1-NG_1_016,Balanga
+level2-NG_2_035002,level1-NG_1_035,Bali
+level2-NG_2_008003,level1-NG_1_008,Bama
+level2-NG_2_032001,level1-NG_1_032,Barikin Ladi
+level2-NG_2_024002,level1-NG_1_024,Baruten
+level2-NG_2_023004,level1-NG_1_023,Bassa
+level2-NG_2_032002,level1-NG_1_032,Bassa
+level2-NG_2_021002,level1-NG_1_021,Batagarawa
+level2-NG_2_021003,level1-NG_1_021,Batsari
+level2-NG_2_005002,level1-NG_1_005,Bauchi
+level2-NG_2_021004,level1-NG_1_021,Baure
+level2-NG_2_008004,level1-NG_1_008,Bayo
+level2-NG_2_020004,level1-NG_1_020,Bebeji
+level2-NG_2_009006,level1-NG_1_009,Bekwara
+level2-NG_2_001004,level1-NG_1_001,Bende
+level2-NG_2_009007,level1-NG_1_009,Biase
+level2-NG_2_020005,level1-NG_1_020,Bichi
+level2-NG_2_027003,level1-NG_1_027,Bida
+level2-NG_2_016003,level1-NG_1_016,Billiri
+level2-NG_2_021005,level1-NG_1_021,Bindawa
+level2-NG_2_034001,level1-NG_1_034,Binji
+level2-NG_2_018003,level1-NG_1_018,Biriniwa
+level2-NG_2_018004,level1-NG_1_018,Birni Kudu
+level2-NG_2_019001,level1-NG_1_019,Birnin-Gwari
+level2-NG_2_022006,level1-NG_1_022,Birnin Kebbi
+level2-NG_2_037003,level1-NG_1_037,Birnin Magaji
+level2-NG_2_008005,level1-NG_1_008,Biu
+level2-NG_2_034002,level1-NG_1_034,Bodinga
+level2-NG_2_005003,level1-NG_1_005,Bogoro
+level2-NG_2_009008,level1-NG_1_009,Boki
+level2-NG_2_032003,level1-NG_1_032,Bokkos
+level2-NG_2_030005,level1-NG_1_030,Boluwaduro
+level2-NG_2_010003,level1-NG_1_010,Bomadi
+level2-NG_2_033007,level1-NG_1_033,Bonny
+level2-NG_2_027004,level1-NG_1_027,Borgu
+level2-NG_2_030006,level1-NG_1_030,Boripe
+level2-NG_2_027005,level1-NG_1_027,Bosso
+level2-NG_2_006001,level1-NG_1_006,Brass
+level2-NG_2_018005,level1-NG_1_018,Buji
+level2-NG_2_037004,level1-NG_1_037,Bukkuyum
+level2-NG_2_037005,level1-NG_1_037,Bungudu
+level2-NG_2_020006,level1-NG_1_020,Bunkure
+level2-NG_2_022007,level1-NG_1_022,Bunza
+level2-NG_2_036002,level1-NG_1_036,Bursari
+level2-NG_2_007004,level1-NG_1_007,Buruku
+level2-NG_2_010004,level1-NG_1_010,Burutu
+level2-NG_2_015003,level1-NG_1_015,Bwari
+level2-NG_2_009010,level1-NG_1_009,Calabar-Municipal
+level2-NG_2_009009,level1-NG_1_009,Calabar South
+level2-NG_2_027006,level1-NG_1_027,Chanchaga
+level2-NG_2_021006,level1-NG_1_021,Charanchi
+level2-NG_2_008006,level1-NG_1_008,Chibok
+level2-NG_2_019002,level1-NG_1_019,Chikun
+level2-NG_2_020007,level1-NG_1_020,Dala
+level2-NG_2_036003,level1-NG_1_036,Damaturu
+level2-NG_2_005004,level1-NG_1_005,Damban
+level2-NG_2_020008,level1-NG_1_020,Dambatta
+level2-NG_2_008007,level1-NG_1_008,Damboa
+level2-NG_2_021007,level1-NG_1_021,Dan Musa
+level2-NG_2_022008,level1-NG_1_022,Dandi
+level2-NG_2_021008,level1-NG_1_021,Dandume
+level2-NG_2_034003,level1-NG_1_034,Dange-Shuni
+level2-NG_2_021009,level1-NG_1_021,Danja
+level2-NG_2_005005,level1-NG_1_005,Darazo
+level2-NG_2_005006,level1-NG_1_005,Dass
+level2-NG_2_021010,level1-NG_1_021,Daura
+level2-NG_2_020009,level1-NG_1_020,Dawakin Kudu
+level2-NG_2_020010,level1-NG_1_020,Dawakin Tofa
+level2-NG_2_033008,level1-NG_1_033,Degema
+level2-NG_2_023005,level1-NG_1_023,Dekina
+level2-NG_2_002001,level1-NG_1_002,Demsa
+level2-NG_2_008008,level1-NG_1_008,Dikwa
+level2-NG_2_020011,level1-NG_1_020,Doguwa
+level2-NG_2_026003,level1-NG_1_026,Doma
+level2-NG_2_035003,level1-NG_1_035,Donga
+level2-NG_2_016004,level1-NG_1_016,Dukku
+level2-NG_2_004008,level1-NG_1_004,Dunukofia
+level2-NG_2_018006,level1-NG_1_018,Dutse
+level2-NG_2_021011,level1-NG_1_021,Dutsi
+level2-NG_2_021012,level1-NG_1_021,Dutsin-Ma
+level2-NG_2_003002,level1-NG_1_003,Eastern Obolo
+level2-NG_2_011004,level1-NG_1_011,Ebonyi
+level2-NG_2_027007,level1-NG_1_027,Edati
+level2-NG_2_030007,level1-NG_1_030,Ede North
+level2-NG_2_030008,level1-NG_1_030,Ede South
+level2-NG_2_024003,level1-NG_1_024,Edu
+level2-NG_2_013003,level1-NG_1_013,Efon
+level2-NG_2_028004,level1-NG_1_028,Egbado North
+level2-NG_2_028005,level1-NG_1_028,Egbado South
+level2-NG_2_031005,level1-NG_1_031,Egbeda
+level2-NG_2_030009,level1-NG_1_030,Egbedore
+level2-NG_2_012002,level1-NG_1_012,Egor
+level2-NG_2_017003,level1-NG_1_017,Ehime-Mbano
+level2-NG_2_030010,level1-NG_1_030,Ejigbo
+level2-NG_2_006002,level1-NG_1_006,Ekeremor
+level2-NG_2_003003,level1-NG_1_003,Eket
+level2-NG_2_024004,level1-NG_1_024,Ekiti
+level2-NG_2_013004,level1-NG_1_013,Ekiti East
+level2-NG_2_013005,level1-NG_1_013,Ekiti South West
+level2-NG_2_013006,level1-NG_1_013,Ekiti West
+level2-NG_2_004009,level1-NG_1_004,Ekwusigo
+level2-NG_2_033009,level1-NG_1_033,Eleme
+level2-NG_2_033010,level1-NG_1_033,Emohua
+level2-NG_2_013007,level1-NG_1_013,Emure
+level2-NG_2_014003,level1-NG_1_014,Enugu East
+level2-NG_2_014004,level1-NG_1_014,Enugu North
+level2-NG_2_014005,level1-NG_1_014,Enugu South
+level2-NG_2_025007,level1-NG_1_025,Epe
+level2-NG_2_012003,level1-NG_1_012,Esan Central
+level2-NG_2_012004,level1-NG_1_012,Esan North East
+level2-NG_2_012005,level1-NG_1_012,Esan South East
+level2-NG_2_012006,level1-NG_1_012,Esan West
+level2-NG_2_029007,level1-NG_1_029,Ese-Odo
+level2-NG_2_003004,level1-NG_1_003,Esit - Eket
+level2-NG_2_003005,level1-NG_1_003,Essien Udim
+level2-NG_2_033011,level1-NG_1_033,Etche
+level2-NG_2_010005,level1-NG_1_010,Ethiope East
+level2-NG_2_010006,level1-NG_1_010,Ethiope West
+level2-NG_2_025008,level1-NG_1_025,Eti-Osa
+level2-NG_2_003006,level1-NG_1_003,Etim Ekpo
+level2-NG_2_003007,level1-NG_1_003,Etinan
+level2-NG_2_012007,level1-NG_1_012,Etsako Central
+level2-NG_2_012008,level1-NG_1_012,Etsako East
+level2-NG_2_012009,level1-NG_1_012,Etsako West
+level2-NG_2_009011,level1-NG_1_009,Etung
+level2-NG_2_028006,level1-NG_1_028,Ewekoro
+level2-NG_2_014006,level1-NG_1_014,Ezeagu
+level2-NG_2_017004,level1-NG_1_017,Ezinihitte
+level2-NG_2_011005,level1-NG_1_011,Ezza North
+level2-NG_2_011006,level1-NG_1_011,Ezza South
+level2-NG_2_020012,level1-NG_1_020,Fagge
+level2-NG_2_022009,level1-NG_1_022,Fakai
+level2-NG_2_021013,level1-NG_1_021,Faskari
+level2-NG_2_036004,level1-NG_1_036,Fika
+level2-NG_2_002002,level1-NG_1_002,Fufore
+level2-NG_2_016005,level1-NG_1_016,Funakaye
+level2-NG_2_036005,level1-NG_1_036,Fune
+level2-NG_2_021014,level1-NG_1_021,Funtua
+level2-NG_2_020013,level1-NG_1_020,Gabasawa
+level2-NG_2_034004,level1-NG_1_034,Gada
+level2-NG_2_018007,level1-NG_1_018,Gagarawa
+level2-NG_2_005007,level1-NG_1_005,Gamawa
+level2-NG_2_005008,level1-NG_1_005,Ganjuwa
+level2-NG_2_002003,level1-NG_1_002,Ganye
+level2-NG_2_018008,level1-NG_1_018,Garki
+level2-NG_2_020014,level1-NG_1_020,Garko
+level2-NG_2_020015,level1-NG_1_020,Garum Mallam
+level2-NG_2_035004,level1-NG_1_035,Gashaka
+level2-NG_2_035005,level1-NG_1_035,Gassol
+level2-NG_2_020016,level1-NG_1_020,Gaya
+level2-NG_2_027008,level1-NG_1_027,Gbako
+level2-NG_2_007005,level1-NG_1_007,Gboko
+level2-NG_2_036006,level1-NG_1_036,Geidam
+level2-NG_2_020017,level1-NG_1_020,Gezawa
+level2-NG_2_005009,level1-NG_1_005,Giade
+level2-NG_2_002005,level1-NG_1_002,Girei
+level2-NG_2_019003,level1-NG_1_019,Giwa
+level2-NG_2_033012,level1-NG_1_033,Gokana
+level2-NG_2_016006,level1-NG_1_016,Gombe
+level2-NG_2_002004,level1-NG_1_002,Gombi
+level2-NG_2_034006,level1-NG_1_034,Goronyo
+level2-NG_2_008009,level1-NG_1_008,Gubio
+level2-NG_2_034007,level1-NG_1_034,Gudu
+level2-NG_2_036007,level1-NG_1_036,Gujba
+level2-NG_2_036008,level1-NG_1_036,Gulani
+level2-NG_2_007006,level1-NG_1_007,Guma
+level2-NG_2_018009,level1-NG_1_018,Gumel
+level2-NG_2_037006,level1-NG_1_037,Gummi
+level2-NG_2_027009,level1-NG_1_027,Gurara
+level2-NG_2_018010,level1-NG_1_018,Guri
+level2-NG_2_037007,level1-NG_1_037,Gusau
+level2-NG_2_002006,level1-NG_1_002,Guyuk
+level2-NG_2_008010,level1-NG_1_008,Guzamala
+level2-NG_2_034005,level1-NG_1_034,Gwadabawa
+level2-NG_2_015004,level1-NG_1_015,Gwagwalada
+level2-NG_2_020018,level1-NG_1_020,Gwale
+level2-NG_2_022010,level1-NG_1_022,Gwandu
+level2-NG_2_018011,level1-NG_1_018,Gwaram
+level2-NG_2_020019,level1-NG_1_020,Gwarzo
+level2-NG_2_007007,level1-NG_1_007,Gwer East
+level2-NG_2_007008,level1-NG_1_007,Gwer West
+level2-NG_2_018012,level1-NG_1_018,Gwiwa
+level2-NG_2_008011,level1-NG_1_008,Gwoza
+level2-NG_2_018013,level1-NG_1_018,Hadejia
+level2-NG_2_008012,level1-NG_1_008,Hawul
+level2-NG_2_002007,level1-NG_1_002,Hong
+level2-NG_2_031006,level1-NG_1_031,Ibadan North
+level2-NG_2_031007,level1-NG_1_031,Ibadan North East
+level2-NG_2_031008,level1-NG_1_031,Ibadan North West
+level2-NG_2_031009,level1-NG_1_031,Ibadan South East
+level2-NG_2_031010,level1-NG_1_031,Ibadan South West
+level2-NG_2_023006,level1-NG_1_023,Ibaji
+level2-NG_2_031011,level1-NG_1_031,Ibarapa Central
+level2-NG_2_031012,level1-NG_1_031,Ibarapa East
+level2-NG_2_031013,level1-NG_1_031,Ibarapa North
+level2-NG_2_025009,level1-NG_1_025,Ibeju/Lekki
+level2-NG_2_003008,level1-NG_1_003,Ibeno
+level2-NG_2_003009,level1-NG_1_003,Ibesikpo Asutan
+level2-NG_2_035006,level1-NG_1_035,Ibi
+level2-NG_2_003010,level1-NG_1_003,Ibiono Ibom
+level2-NG_2_023007,level1-NG_1_023,Idah
+level2-NG_2_029008,level1-NG_1_029,Idanre
+level2-NG_2_017005,level1-NG_1_017,Ideato North
+level2-NG_2_017006,level1-NG_1_017,Ideato South
+level2-NG_2_004010,level1-NG_1_004,Idemili North
+level2-NG_2_004011,level1-NG_1_004,Idemili South
+level2-NG_2_031014,level1-NG_1_031,Ido
+level2-NG_2_013008,level1-NG_1_013,Ido-Osi
+level2-NG_2_025010,level1-NG_1_025,Ifako-Ijaye
+level2-NG_2_030011,level1-NG_1_030,Ife Central
+level2-NG_2_030012,level1-NG_1_030,Ife East
+level2-NG_2_030013,level1-NG_1_030,Ife North
+level2-NG_2_030014,level1-NG_1_030,Ife South
+level2-NG_2_030015,level1-NG_1_030,Ifedayo
+level2-NG_2_029009,level1-NG_1_029,Ifedore
+level2-NG_2_024005,level1-NG_1_024,Ifelodun
+level2-NG_2_030016,level1-NG_1_030,Ifelodun
+level2-NG_2_028007,level1-NG_1_028,Ifo
+level2-NG_2_019004,level1-NG_1_019,Igabi
+level2-NG_2_023008,level1-NG_1_023,Igalamela-Odolu
+level2-NG_2_014007,level1-NG_1_014,Igbo-Etiti
+level2-NG_2_014008,level1-NG_1_014,Igbo-Eze North
+level2-NG_2_014009,level1-NG_1_014,Igbo-Eze South
+level2-NG_2_012010,level1-NG_1_012,Igueben
+level2-NG_2_004012,level1-NG_1_004,Ihiala
+level2-NG_2_017007,level1-NG_1_017,Ihitte/Uboma
+level2-NG_2_028008,level1-NG_1_028,Ijebu East
+level2-NG_2_028009,level1-NG_1_028,Ijebu North
+level2-NG_2_028010,level1-NG_1_028,Ijebu North East
+level2-NG_2_028011,level1-NG_1_028,Ijebu Ode
+level2-NG_2_013009,level1-NG_1_013,Ijero
+level2-NG_2_023009,level1-NG_1_023,Ijumu
+level2-NG_2_003011,level1-NG_1_003,Ika
+level2-NG_2_010007,level1-NG_1_010,Ika North East
+level2-NG_2_010008,level1-NG_1_010,Ika South
+level2-NG_2_019005,level1-NG_1_019,Ikara
+level2-NG_2_017008,level1-NG_1_017,Ikeduru
+level2-NG_2_025011,level1-NG_1_025,Ikeja
+level2-NG_2_028012,level1-NG_1_028,Ikenne
+level2-NG_2_013010,level1-NG_1_013,Ikere
+level2-NG_2_013011,level1-NG_1_013,Ikole
+level2-NG_2_009012,level1-NG_1_009,Ikom
+level2-NG_2_003012,level1-NG_1_003,Ikono
+level2-NG_2_025012,level1-NG_1_025,Ikorodu
+level2-NG_2_003013,level1-NG_1_003,Ikot Abasi
+level2-NG_2_003014,level1-NG_1_003,Ikot Ekpene
+level2-NG_2_012011,level1-NG_1_012,Ikpoba-Okha
+level2-NG_2_033013,level1-NG_1_033,Ikwerre
+level2-NG_2_011007,level1-NG_1_011,Ikwo
+level2-NG_2_001005,level1-NG_1_001,Ikwuano
+level2-NG_2_030017,level1-NG_1_030,Ila
+level2-NG_2_029010,level1-NG_1_029,Ilaje
+level2-NG_2_029011,level1-NG_1_029,Ile-Oluji-Okeigbo
+level2-NG_2_013012,level1-NG_1_013,Ilejemeji
+level2-NG_2_030018,level1-NG_1_030,Ilesha East
+level2-NG_2_030019,level1-NG_1_030,Ilesha West
+level2-NG_2_034008,level1-NG_1_034,Illela
+level2-NG_2_024006,level1-NG_1_024,Ilorin East
+level2-NG_2_024007,level1-NG_1_024,Ilorin South
+level2-NG_2_024008,level1-NG_1_024,Ilorin West
+level2-NG_2_028013,level1-NG_1_028,Imeko-Afon
+level2-NG_2_021015,level1-NG_1_021,Ingawa
+level2-NG_2_003015,level1-NG_1_003,Ini
+level2-NG_2_028014,level1-NG_1_028,Ipokia
+level2-NG_2_029012,level1-NG_1_029,Irele
+level2-NG_2_031015,level1-NG_1_031,Irepo
+level2-NG_2_024009,level1-NG_1_024,Irepodun
+level2-NG_2_030020,level1-NG_1_030,Irepodun
+level2-NG_2_013013,level1-NG_1_013,Irepodun/Ifelodun
+level2-NG_2_030021,level1-NG_1_030,Irewole
+level2-NG_2_034009,level1-NG_1_034,Isa
+level2-NG_2_013014,level1-NG_1_013,Ise/Orun
+level2-NG_2_031016,level1-NG_1_031,Iseyin
+level2-NG_2_011008,level1-NG_1_011,Ishielu
+level2-NG_2_014010,level1-NG_1_014,Isi-Uzo
+level2-NG_2_001006,level1-NG_1_001,Isiala-Ngwa North
+level2-NG_2_001007,level1-NG_1_001,Isiala-Ngwa South
+level2-NG_2_017009,level1-NG_1_017,Isiala Mbano
+level2-NG_2_024010,level1-NG_1_024,Isin
+level2-NG_2_001008,level1-NG_1_001,Isiukwuato
+level2-NG_2_030022,level1-NG_1_030,Isokan
+level2-NG_2_010009,level1-NG_1_010,Isoko North
+level2-NG_2_010010,level1-NG_1_010,Isoko South
+level2-NG_2_017010,level1-NG_1_017,Isu
+level2-NG_2_005010,level1-NG_1_005,Itas/Gadau
+level2-NG_2_031017,level1-NG_1_031,Itesiwaju
+level2-NG_2_003016,level1-NG_1_003,Itu
+level2-NG_2_011009,level1-NG_1_011,Ivo
+level2-NG_2_031018,level1-NG_1_031,Iwajowa
+level2-NG_2_030023,level1-NG_1_030,Iwo
+level2-NG_2_011010,level1-NG_1_011,Izzi
+level2-NG_2_019006,level1-NG_1_019,Jaba
+level2-NG_2_002008,level1-NG_1_002,Jada
+level2-NG_2_018014,level1-NG_1_018,Jahun
+level2-NG_2_036009,level1-NG_1_036,Jakusko
+level2-NG_2_035007,level1-NG_1_035,Jalingo
+level2-NG_2_005011,level1-NG_1_005,Jama'are
+level2-NG_2_022011,level1-NG_1_022,Jega
+level2-NG_2_019007,level1-NG_1_019,Jema'a
+level2-NG_2_008013,level1-NG_1_008,Jere
+level2-NG_2_021016,level1-NG_1_021,Jibia
+level2-NG_2_032004,level1-NG_1_032,Jos East
+level2-NG_2_032005,level1-NG_1_032,Jos North
+level2-NG_2_032006,level1-NG_1_032,Jos South
+level2-NG_2_023010,level1-NG_1_023,Kabba/Bunu
+level2-NG_2_020020,level1-NG_1_020,Kabo
+level2-NG_2_019008,level1-NG_1_019,Kachia
+level2-NG_2_019009,level1-NG_1_019,Kaduna North
+level2-NG_2_019010,level1-NG_1_019,Kaduna South
+level2-NG_2_018015,level1-NG_1_018,Kafin Hausa
+level2-NG_2_021017,level1-NG_1_021,Kafur
+level2-NG_2_008014,level1-NG_1_008,Kaga
+level2-NG_2_019011,level1-NG_1_019,Kagarko
+level2-NG_2_024011,level1-NG_1_024,Kaiama
+level2-NG_2_021018,level1-NG_1_021,Kaita
+level2-NG_2_031019,level1-NG_1_031,Kajola
+level2-NG_2_019012,level1-NG_1_019,Kajuru
+level2-NG_2_008015,level1-NG_1_008,Kala/Balge
+level2-NG_2_022012,level1-NG_1_022,Kalgo
+level2-NG_2_016007,level1-NG_1_016,Kaltungo
+level2-NG_2_032007,level1-NG_1_032,Kanam
+level2-NG_2_021019,level1-NG_1_021,Kankara
+level2-NG_2_032008,level1-NG_1_032,Kanke
+level2-NG_2_021020,level1-NG_1_021,Kankia
+level2-NG_2_020021,level1-NG_1_020,Kano Municipal
+level2-NG_2_036010,level1-NG_1_036,Karasuwa
+level2-NG_2_020022,level1-NG_1_020,Karaye
+level2-NG_2_035008,level1-NG_1_035,Karim-Lamido
+level2-NG_2_026004,level1-NG_1_026,Karu
+level2-NG_2_005012,level1-NG_1_005,Katagum
+level2-NG_2_027010,level1-NG_1_027,Katcha
+level2-NG_2_021021,level1-NG_1_021,Katsina
+level2-NG_2_007009,level1-NG_1_007,Katsina-Ala
+level2-NG_2_018016,level1-NG_1_018,Kaugama
+level2-NG_2_019013,level1-NG_1_019,Kaura
+level2-NG_2_037008,level1-NG_1_037,Kaura Namoda
+level2-NG_2_019014,level1-NG_1_019,Kauru
+level2-NG_2_018017,level1-NG_1_018,Kazaure
+level2-NG_2_026005,level1-NG_1_026,Keana
+level2-NG_2_034010,level1-NG_1_034,Kebbe
+level2-NG_2_026006,level1-NG_1_026,Keffi
+level2-NG_2_033014,level1-NG_1_033,Khana
+level2-NG_2_020023,level1-NG_1_020,Kibiya
+level2-NG_2_005013,level1-NG_1_005,Kirfi
+level2-NG_2_018018,level1-NG_1_018,Kiri Kasamma
+level2-NG_2_020024,level1-NG_1_020,Kiru
+level2-NG_2_018019,level1-NG_1_018,Kiyawa
+level2-NG_2_023011,level1-NG_1_023,Kogi
+level2-NG_2_022013,level1-NG_1_022,Koko/Besse
+level2-NG_2_026007,level1-NG_1_026,Kokona
+level2-NG_2_006003,level1-NG_1_006,Kolokuma/Opokuma
+level2-NG_2_008016,level1-NG_1_008,Konduga
+level2-NG_2_007010,level1-NG_1_007,Konshisha
+level2-NG_2_027011,level1-NG_1_027,Kontagora
+level2-NG_2_025013,level1-NG_1_025,Kosofe
+level2-NG_2_019015,level1-NG_1_019,Kubau
+level2-NG_2_019016,level1-NG_1_019,Kudan
+level2-NG_2_015005,level1-NG_1_015,Kuje
+level2-NG_2_008017,level1-NG_1_008,Kukawa
+level2-NG_2_020025,level1-NG_1_020,Kumbotso
+level2-NG_2_020026,level1-NG_1_020,Kunchi
+level2-NG_2_020027,level1-NG_1_020,Kura
+level2-NG_2_021022,level1-NG_1_021,Kurfi
+level2-NG_2_035009,level1-NG_1_035,Kurmi
+level2-NG_2_021023,level1-NG_1_021,Kusada
+level2-NG_2_015006,level1-NG_1_015,Kwali
+level2-NG_2_016008,level1-NG_1_016,Kwami
+level2-NG_2_007011,level1-NG_1_007,Kwande
+level2-NG_2_034011,level1-NG_1_034,Kware
+level2-NG_2_008018,level1-NG_1_008,Kwaya Kusar
+level2-NG_2_026008,level1-NG_1_026,Lafia
+level2-NG_2_031020,level1-NG_1_031,Lagelu
+level2-NG_2_025014,level1-NG_1_025,Lagos Island
+level2-NG_2_025015,level1-NG_1_025,Lagos Mainland
+level2-NG_2_002009,level1-NG_1_002,Lamurde
+level2-NG_2_032009,level1-NG_1_032,Langtang North
+level2-NG_2_032010,level1-NG_1_032,Langtang South
+level2-NG_2_027012,level1-NG_1_027,Lapai
+level2-NG_2_035010,level1-NG_1_035,Lau
+level2-NG_2_027013,level1-NG_1_027,Lavun
+level2-NG_2_019017,level1-NG_1_019,Lere
+level2-NG_2_007012,level1-NG_1_007,Logo
+level2-NG_2_023012,level1-NG_1_023,Lokoja
+level2-NG_2_036011,level1-NG_1_036,Machina
+level2-NG_2_002010,level1-NG_1_002,Madagali
+level2-NG_2_020028,level1-NG_1_020,Madobi
+level2-NG_2_008019,level1-NG_1_008,Mafa
+level2-NG_2_027014,level1-NG_1_027,Magama
+level2-NG_2_008020,level1-NG_1_008,Magumeri
+level2-NG_2_021024,level1-NG_1_021,Mai'adua
+level2-NG_2_008021,level1-NG_1_008,Maiduguri
+level2-NG_2_018020,level1-NG_1_018,Maigatari
+level2-NG_2_002011,level1-NG_1_002,Maiha
+level2-NG_2_022014,level1-NG_1_022,Maiyama
+level2-NG_2_020029,level1-NG_1_020,Makoda
+level2-NG_2_007013,level1-NG_1_007,Makurdi
+level2-NG_2_018021,level1-NG_1_018,Malam Madori
+level2-NG_2_021025,level1-NG_1_021,Malumfashi
+level2-NG_2_032011,level1-NG_1_032,Mangu
+level2-NG_2_021026,level1-NG_1_021,Mani
+level2-NG_2_037009,level1-NG_1_037,Maradun
+level2-NG_2_027015,level1-NG_1_027,Mariga
+level2-NG_2_019018,level1-NG_1_019,Markafi
+level2-NG_2_008022,level1-NG_1_008,Marte
+level2-NG_2_037010,level1-NG_1_037,Maru
+level2-NG_2_027016,level1-NG_1_027,Mashegu
+level2-NG_2_021027,level1-NG_1_021,Mashi
+level2-NG_2_021028,level1-NG_1_021,Matazu
+level2-NG_2_002012,level1-NG_1_002,Mayo-Belwa
+level2-NG_2_017011,level1-NG_1_017,Mbaitoli
+level2-NG_2_003017,level1-NG_1_003,Mbo
+level2-NG_2_002013,level1-NG_1_002,Michika
+level2-NG_2_018022,level1-NG_1_018,Miga
+level2-NG_2_032012,level1-NG_1_032,Mikang
+level2-NG_2_020030,level1-NG_1_020,Minjibir
+level2-NG_2_005014,level1-NG_1_005,Misau
+level2-NG_2_003018,level1-NG_1_003,Mkpat Enin
+level2-NG_2_013015,level1-NG_1_013,Moba
+level2-NG_2_008023,level1-NG_1_008,Mobbar
+level2-NG_2_027017,level1-NG_1_027,Mokwa
+level2-NG_2_008024,level1-NG_1_008,Monguno
+level2-NG_2_023013,level1-NG_1_023,Mopa-Muro
+level2-NG_2_024012,level1-NG_1_024,Moro
+level2-NG_2_002014,level1-NG_1_002,Mubi North
+level2-NG_2_002015,level1-NG_1_002,Mubi South
+level2-NG_2_021029,level1-NG_1_021,Musawa
+level2-NG_2_025016,level1-NG_1_025,Mushin
+level2-NG_2_027018,level1-NG_1_027,Muya
+level2-NG_2_016009,level1-NG_1_016,Nafada
+level2-NG_2_036012,level1-NG_1_036,Nangere
+level2-NG_2_020031,level1-NG_1_020,Nasarawa
+level2-NG_2_026009,level1-NG_1_026,Nasarawa
+level2-NG_2_026010,level1-NG_1_026,Nasarawa-Eggon
+level2-NG_2_010011,level1-NG_1_010,Ndokwa East
+level2-NG_2_010012,level1-NG_1_010,Ndokwa West
+level2-NG_2_006004,level1-NG_1_006,Nembe
+level2-NG_2_008025,level1-NG_1_008,Ngala
+level2-NG_2_008026,level1-NG_1_008,Nganzai
+level2-NG_2_022015,level1-NG_1_022,Ngaski
+level2-NG_2_017012,level1-NG_1_017,Ngor-Okpala
+level2-NG_2_036013,level1-NG_1_036,Nguru
+level2-NG_2_005015,level1-NG_1_005,Ningi
+level2-NG_2_017013,level1-NG_1_017,Njaba
+level2-NG_2_004013,level1-NG_1_004,Njikoka
+level2-NG_2_014011,level1-NG_1_014,Nkanu East
+level2-NG_2_014012,level1-NG_1_014,Nkanu West
+level2-NG_2_017014,level1-NG_1_017,Nkwerre
+level2-NG_2_004014,level1-NG_1_004,Nnewi North
+level2-NG_2_004015,level1-NG_1_004,Nnewi South
+level2-NG_2_003019,level1-NG_1_003,Nsit Atai
+level2-NG_2_003020,level1-NG_1_003,Nsit Ibom
+level2-NG_2_003021,level1-NG_1_003,Nsit Ubium
+level2-NG_2_014013,level1-NG_1_014,Nsukka
+level2-NG_2_002016,level1-NG_1_002,Numan
+level2-NG_2_017015,level1-NG_1_017,Nwangele
+level2-NG_2_028015,level1-NG_1_028,Obafemi-Owode
+level2-NG_2_009013,level1-NG_1_009,Obanliku
+level2-NG_2_007014,level1-NG_1_007,Obi
+level2-NG_2_026011,level1-NG_1_026,Obi
+level2-NG_2_001009,level1-NG_1_001,Obi Ngwa
+level2-NG_2_033015,level1-NG_1_033,Obia/Akpor
+level2-NG_2_030024,level1-NG_1_030,Obokun
+level2-NG_2_003022,level1-NG_1_003,Obot Akara
+level2-NG_2_017016,level1-NG_1_017,Obowo
+level2-NG_2_009014,level1-NG_1_009,Obubra
+level2-NG_2_009015,level1-NG_1_009,Obudu
+level2-NG_2_028016,level1-NG_1_028,Odeda
+level2-NG_2_029013,level1-NG_1_029,Odigbo
+level2-NG_2_030025,level1-NG_1_030,Odo-Otin
+level2-NG_2_028017,level1-NG_1_028,Odogbolu
+level2-NG_2_009016,level1-NG_1_009,Odukpani
+level2-NG_2_024013,level1-NG_1_024,Offa
+level2-NG_2_023014,level1-NG_1_023,Ofu
+level2-NG_2_033016,level1-NG_1_033,Ogba/Egbema/Ndoni
+level2-NG_2_007015,level1-NG_1_007,Ogbadibo
+level2-NG_2_004016,level1-NG_1_004,Ogbaru
+level2-NG_2_006005,level1-NG_1_006,Ogbia
+level2-NG_2_031021,level1-NG_1_031,Ogbomosho North
+level2-NG_2_031022,level1-NG_1_031,Ogbomosho South
+level2-NG_2_031023,level1-NG_1_031,Ogo Oluwa
+level2-NG_2_009017,level1-NG_1_009,Ogoja
+level2-NG_2_023015,level1-NG_1_023,Ogori/Magongo
+level2-NG_2_033017,level1-NG_1_033,Ogu/Bolo
+level2-NG_2_028018,level1-NG_1_028,Ogun waterside
+level2-NG_2_017017,level1-NG_1_017,Oguta
+level2-NG_2_001010,level1-NG_1_001,Ohafia
+level2-NG_2_017018,level1-NG_1_017,Ohaji/Egbema
+level2-NG_2_011011,level1-NG_1_011,Ohaozara
+level2-NG_2_011012,level1-NG_1_011,Ohaukwu
+level2-NG_2_007016,level1-NG_1_007,Ohimini
+level2-NG_2_014014,level1-NG_1_014,Oji-River
+level2-NG_2_025017,level1-NG_1_025,Ojo
+level2-NG_2_007017,level1-NG_1_007,Oju
+level2-NG_2_024014,level1-NG_1_024,Oke-Ero
+level2-NG_2_023016,level1-NG_1_023,Okehi
+level2-NG_2_023017,level1-NG_1_023,Okene
+level2-NG_2_017019,level1-NG_1_017,Okigwe
+level2-NG_2_029014,level1-NG_1_029,Okitipupa
+level2-NG_2_003023,level1-NG_1_003,Okobo
+level2-NG_2_010013,level1-NG_1_010,Okpe
+level2-NG_2_007018,level1-NG_1_007,Okpokwu
+level2-NG_2_033018,level1-NG_1_033,Okrika
+level2-NG_2_030026,level1-NG_1_030,Ola-oluwa
+level2-NG_2_023018,level1-NG_1_023,Olamabolo
+level2-NG_2_030027,level1-NG_1_030,Olorunda
+level2-NG_2_031024,level1-NG_1_031,Olorunsogo
+level2-NG_2_031025,level1-NG_1_031,Oluyole
+level2-NG_2_023019,level1-NG_1_023,Omala
+level2-NG_2_033019,level1-NG_1_033,Omumma
+level2-NG_2_031026,level1-NG_1_031,Ona-Ara
+level2-NG_2_029015,level1-NG_1_029,Ondo East
+level2-NG_2_029016,level1-NG_1_029,Ondo West
+level2-NG_2_011013,level1-NG_1_011,Onicha
+level2-NG_2_004017,level1-NG_1_004,Onitsha North
+level2-NG_2_004018,level1-NG_1_004,Onitsha South
+level2-NG_2_003024,level1-NG_1_003,Onna
+level2-NG_2_033020,level1-NG_1_033,Opobo/Nkoro
+level2-NG_2_012012,level1-NG_1_012,Oredo
+level2-NG_2_031027,level1-NG_1_031,Orelope
+level2-NG_2_012013,level1-NG_1_012,Orhionmwon
+level2-NG_2_031028,level1-NG_1_031,Ori Ire
+level2-NG_2_030028,level1-NG_1_030,Oriade
+level2-NG_2_017020,level1-NG_1_017,Orlu
+level2-NG_2_030029,level1-NG_1_030,Orolu
+level2-NG_2_003025,level1-NG_1_003,Oron
+level2-NG_2_017021,level1-NG_1_017,Orsu
+level2-NG_2_017022,level1-NG_1_017,Oru East
+level2-NG_2_017023,level1-NG_1_017,Oru West
+level2-NG_2_003026,level1-NG_1_003,Oruk Anam
+level2-NG_2_004019,level1-NG_1_004,Orumba North
+level2-NG_2_004020,level1-NG_1_004,Orumba South
+level2-NG_2_029017,level1-NG_1_029,Ose
+level2-NG_2_010014,level1-NG_1_010,Oshimili North
+level2-NG_2_010015,level1-NG_1_010,Oshimili South
+level2-NG_2_025018,level1-NG_1_025,Oshodi-Isolo
+level2-NG_2_001011,level1-NG_1_001,Osisioma Ngwa
+level2-NG_2_030030,level1-NG_1_030,Osogbo
+level2-NG_2_007019,level1-NG_1_007,Oturkpo
+level2-NG_2_012014,level1-NG_1_012,Ovia North East
+level2-NG_2_012015,level1-NG_1_012,Ovia South West
+level2-NG_2_012016,level1-NG_1_012,Owan East
+level2-NG_2_012017,level1-NG_1_012,Owan West
+level2-NG_2_017026,level1-NG_1_017,Owerri-Municipal
+level2-NG_2_017024,level1-NG_1_017,Owerri North
+level2-NG_2_017025,level1-NG_1_017,Owerri West
+level2-NG_2_029018,level1-NG_1_029,Owo
+level2-NG_2_013016,level1-NG_1_013,Oye
+level2-NG_2_004021,level1-NG_1_004,Oyi
+level2-NG_2_033021,level1-NG_1_033,Oyigbo
+level2-NG_2_031029,level1-NG_1_031,Oyo East
+level2-NG_2_031030,level1-NG_1_031,Oyo West
+level2-NG_2_024015,level1-NG_1_024,Oyun
+level2-NG_2_027019,level1-NG_1_027,Paikoro
+level2-NG_2_032013,level1-NG_1_032,Pankshin
+level2-NG_2_010016,level1-NG_1_010,Patani
+level2-NG_2_024016,level1-NG_1_024,Pategi
+level2-NG_2_033022,level1-NG_1_033,Port-Harcourt
+level2-NG_2_036014,level1-NG_1_036,Potiskum
+level2-NG_2_032014,level1-NG_1_032,Qua'an Pan
+level2-NG_2_034012,level1-NG_1_034,Rabah
+level2-NG_2_027020,level1-NG_1_027,Rafi
+level2-NG_2_020032,level1-NG_1_020,Rano
+level2-NG_2_028019,level1-NG_1_028,Remo North
+level2-NG_2_027021,level1-NG_1_027,Rijau
+level2-NG_2_021030,level1-NG_1_021,Rimi
+level2-NG_2_020033,level1-NG_1_020,Rimin Gado
+level2-NG_2_018023,level1-NG_1_018,Ringim
+level2-NG_2_032015,level1-NG_1_032,Riyom
+level2-NG_2_020034,level1-NG_1_020,Rogo
+level2-NG_2_018024,level1-NG_1_018,Roni
+level2-NG_2_019019,level1-NG_1_019,Sabon-Gari
+level2-NG_2_034013,level1-NG_1_034,Sabon Birni
+level2-NG_2_021031,level1-NG_1_021,Sabuwa
+level2-NG_2_021032,level1-NG_1_021,Safana
+level2-NG_2_006006,level1-NG_1_006,Sagbama
+level2-NG_2_022016,level1-NG_1_022,Sakaba
+level2-NG_2_031031,level1-NG_1_031,Saki East
+level2-NG_2_031032,level1-NG_1_031,Saki West
+level2-NG_2_021033,level1-NG_1_021,Sandamu
+level2-NG_2_019020,level1-NG_1_019,Sanga
+level2-NG_2_010017,level1-NG_1_010,Sapele
+level2-NG_2_035011,level1-NG_1_035,Sardauna
+level2-NG_2_028020,level1-NG_1_028,Shagamu
+level2-NG_2_034014,level1-NG_1_034,Shagari
+level2-NG_2_022017,level1-NG_1_022,Shanga
+level2-NG_2_008027,level1-NG_1_008,Shani
+level2-NG_2_020035,level1-NG_1_020,Shanono
+level2-NG_2_002017,level1-NG_1_002,Shelleng
+level2-NG_2_032016,level1-NG_1_032,Shendam
+level2-NG_2_037011,level1-NG_1_037,Shinkafi
+level2-NG_2_005016,level1-NG_1_005,Shira
+level2-NG_2_027022,level1-NG_1_027,Shiroro
+level2-NG_2_016010,level1-NG_1_016,Shomgom
+level2-NG_2_025019,level1-NG_1_025,Shomolu
+level2-NG_2_034015,level1-NG_1_034,Silame
+level2-NG_2_019021,level1-NG_1_019,Soba
+level2-NG_2_034016,level1-NG_1_034,Sokoto North
+level2-NG_2_034017,level1-NG_1_034,Sokoto South
+level2-NG_2_002018,level1-NG_1_002,Song
+level2-NG_2_006007,level1-NG_1_006,Southern Ijaw
+level2-NG_2_018025,level1-NG_1_018,Sule-Tankarkar
+level2-NG_2_027023,level1-NG_1_027,Suleja
+level2-NG_2_020036,level1-NG_1_020,Sumaila
+level2-NG_2_022018,level1-NG_1_022,Suru
+level2-NG_2_025020,level1-NG_1_025,Surulere
+level2-NG_2_031033,level1-NG_1_031,Surulere
+level2-NG_2_027024,level1-NG_1_027,Tafa
+level2-NG_2_005017,level1-NG_1_005,Tafawa-Balewa
+level2-NG_2_033023,level1-NG_1_033,Tai
+level2-NG_2_020037,level1-NG_1_020,Takai
+level2-NG_2_035012,level1-NG_1_035,Takum
+level2-NG_2_037012,level1-NG_1_037,Talata Mafara
+level2-NG_2_034018,level1-NG_1_034,Tambuwal
+level2-NG_2_034019,level1-NG_1_034,Tangaza
+level2-NG_2_020038,level1-NG_1_020,Tarauni
+level2-NG_2_007020,level1-NG_1_007,Tarka
+level2-NG_2_036015,level1-NG_1_036,Tarmua
+level2-NG_2_018026,level1-NG_1_018,Taura
+level2-NG_2_020039,level1-NG_1_020,Tofa
+level2-NG_2_005018,level1-NG_1_005,Toro
+level2-NG_2_026012,level1-NG_1_026,Toto
+level2-NG_2_002019,level1-NG_1_002,Toungo
+level2-NG_2_037013,level1-NG_1_037,Tsafe
+level2-NG_2_020040,level1-NG_1_020,Tsanyawa
+level2-NG_2_020041,level1-NG_1_020,Tudun Wada
+level2-NG_2_034020,level1-NG_1_034,Tureta
+level2-NG_2_014015,level1-NG_1_014,Udenu
+level2-NG_2_014016,level1-NG_1_014,Udi
+level2-NG_2_010018,level1-NG_1_010,Udu
+level2-NG_2_003027,level1-NG_1_003,Udung Uko
+level2-NG_2_010019,level1-NG_1_010,Ughelli North
+level2-NG_2_010020,level1-NG_1_010,Ughelli South
+level2-NG_2_001012,level1-NG_1_001,Ugwunagbo
+level2-NG_2_012018,level1-NG_1_012,Uhunmwonde
+level2-NG_2_003028,level1-NG_1_003,Ukanafun
+level2-NG_2_007021,level1-NG_1_007,Ukum
+level2-NG_2_001013,level1-NG_1_001,Ukwa East
+level2-NG_2_001014,level1-NG_1_001,Ukwa West
+level2-NG_2_010021,level1-NG_1_010,Ukwuani
+level2-NG_2_001017,level1-NG_1_001,Umu-Nneochi
+level2-NG_2_001015,level1-NG_1_001,Umuahia North
+level2-NG_2_001016,level1-NG_1_001,Umuahia South
+level2-NG_2_020042,level1-NG_1_020,Ungogo
+level2-NG_2_017027,level1-NG_1_017,Unuimo
+level2-NG_2_003029,level1-NG_1_003,Uruan
+level2-NG_2_003030,level1-NG_1_003,Urue-Offong/Oruko
+level2-NG_2_007022,level1-NG_1_007,Ushongo
+level2-NG_2_035013,level1-NG_1_035,Ussa
+level2-NG_2_010022,level1-NG_1_010,Uvwie
+level2-NG_2_003031,level1-NG_1_003,Uyo
+level2-NG_2_014017,level1-NG_1_014,Uzo-Uwani
+level2-NG_2_007023,level1-NG_1_007,Vandeikya
+level2-NG_2_034021,level1-NG_1_034,Wamako
+level2-NG_2_026013,level1-NG_1_026,Wamba
+level2-NG_2_020043,level1-NG_1_020,Warawa
+level2-NG_2_005019,level1-NG_1_005,Warji
+level2-NG_2_010023,level1-NG_1_010,Warri North
+level2-NG_2_010024,level1-NG_1_010,Warri South
+level2-NG_2_010025,level1-NG_1_010,Warri South West
+level2-NG_2_022019,level1-NG_1_022,Wasagu/Danko
+level2-NG_2_032017,level1-NG_1_032,Wase
+level2-NG_2_020044,level1-NG_1_020,Wudil
+level2-NG_2_035014,level1-NG_1_035,Wukari
+level2-NG_2_034022,level1-NG_1_034,Wurno
+level2-NG_2_027025,level1-NG_1_027,Wushishi
+level2-NG_2_034023,level1-NG_1_034,Yabo
+level2-NG_2_023020,level1-NG_1_023,Yagba East
+level2-NG_2_023021,level1-NG_1_023,Yagba West
+level2-NG_2_009018,level1-NG_1_009,Yakurr
+level2-NG_2_009019,level1-NG_1_009,Yala
+level2-NG_2_016011,level1-NG_1_016,Yamaltu/Deba
+level2-NG_2_018027,level1-NG_1_018,Yankwashi
+level2-NG_2_022020,level1-NG_1_022,Yauri
+level2-NG_2_006008,level1-NG_1_006,Yenegoa
+level2-NG_2_002020,level1-NG_1_002,Yola North
+level2-NG_2_002021,level1-NG_1_002,Yola South
+level2-NG_2_035015,level1-NG_1_035,Yorro
+level2-NG_2_036016,level1-NG_1_036,Yunusari
+level2-NG_2_036017,level1-NG_1_036,Yusufari
+level2-NG_2_005020,level1-NG_1_005,Zaki
+level2-NG_2_021034,level1-NG_1_021,Zango
+level2-NG_2_019022,level1-NG_1_019,Zango-Kataf
+level2-NG_2_019023,level1-NG_1_019,Zaria
+level2-NG_2_035016,level1-NG_1_035,Zing
+level2-NG_2_037014,level1-NG_1_037,Zurmi
+level2-NG_2_022021,level1-NG_1_022,Zuru
+level2-ZA_2_00101,level1-ZA_1_001,West Coast
+level2-ZA_2_00102,level1-ZA_1_001,Cape Winelands
+level2-ZA_2_00103,level1-ZA_1_001,Overberg
+level2-ZA_2_00104,level1-ZA_1_001,Eden
+level2-ZA_2_00105,level1-ZA_1_001,Central Karoo
+level2-ZA_2_00191,level1-ZA_1_001,City of Cape Town
+level2-ZA_2_00210,level1-ZA_1_002,Cacadu
+level2-ZA_2_00212,level1-ZA_1_002,Amathole
+level2-ZA_2_00213,level1-ZA_1_002,Chris Hani
+level2-ZA_2_00214,level1-ZA_1_002,Joe Gqabi
+level2-ZA_2_00215,level1-ZA_1_002,O.R.Tambo
+level2-ZA_2_00244,level1-ZA_1_002,Alfred Nzo
+level2-ZA_2_00292,level1-ZA_1_002,Buffalo City
+level2-ZA_2_00293,level1-ZA_1_002,Nelson Mandela Bay
+level2-ZA_2_00306,level1-ZA_1_003,Namakwa
+level2-ZA_2_00307,level1-ZA_1_003,Pixley ka Seme
+level2-ZA_2_00308,level1-ZA_1_003,Z F Mgcawu
+level2-ZA_2_00309,level1-ZA_1_003,Frances Baard
+level2-ZA_2_00345,level1-ZA_1_003,John Taolo Gaetsewe
+level2-ZA_2_00416,level1-ZA_1_004,Xhariep
+level2-ZA_2_00418,level1-ZA_1_004,Lejweleputswa
+level2-ZA_2_00419,level1-ZA_1_004,Thabo Mofutsanyane
+level2-ZA_2_00420,level1-ZA_1_004,Fezile Dabi
+level2-ZA_2_00494,level1-ZA_1_004,Mangaung
+level2-ZA_2_00521,level1-ZA_1_005,Ugu
+level2-ZA_2_00522,level1-ZA_1_005,Umgungundlovu
+level2-ZA_2_00523,level1-ZA_1_005,Uthukela
+level2-ZA_2_00524,level1-ZA_1_005,Umzinyathi
+level2-ZA_2_00525,level1-ZA_1_005,Amajuba
+level2-ZA_2_00526,level1-ZA_1_005,Zululand
+level2-ZA_2_00527,level1-ZA_1_005,Umkhanyakude
+level2-ZA_2_00528,level1-ZA_1_005,Uthungulu
+level2-ZA_2_00529,level1-ZA_1_005,iLembe
+level2-ZA_2_00543,level1-ZA_1_005,Sisonke
+level2-ZA_2_00595,level1-ZA_1_005,eThekwini
+level2-ZA_2_00637,level1-ZA_1_006,Bojanala
+level2-ZA_2_00638,level1-ZA_1_006,Ngaka Modiri Molema
+level2-ZA_2_00639,level1-ZA_1_006,Dr Ruth Segomotsi Mompati
+level2-ZA_2_00640,level1-ZA_1_006,Dr Kenneth Kaunda
+level2-ZA_2_00742,level1-ZA_1_007,Sedibeng
+level2-ZA_2_00748,level1-ZA_1_007,West Rand
+level2-ZA_2_00797,level1-ZA_1_007,Ekurhuleni
+level2-ZA_2_00798,level1-ZA_1_007,City of Johannesburg
+level2-ZA_2_00799,level1-ZA_1_007,City of Tshwane
+level2-ZA_2_00830,level1-ZA_1_008,Gert Sibande
+level2-ZA_2_00831,level1-ZA_1_008,Nkangala
+level2-ZA_2_00832,level1-ZA_1_008,Ehlanzeni
+level2-ZA_2_00933,level1-ZA_1_009,Mopani
+level2-ZA_2_00934,level1-ZA_1_009,Vhembe
+level2-ZA_2_00935,level1-ZA_1_009,Capricorn
+level2-ZA_2_00936,level1-ZA_1_009,Waterberg
+level2-ZA_2_00947,level1-ZA_1_009,Sekhukhune
+level3-ZA_3_001011,level2-ZA_2_00101,Matzikama
+level3-ZA_3_001012,level2-ZA_2_00101,Cederberg
+level3-ZA_3_001013,level2-ZA_2_00101,Bergrivier
+level3-ZA_3_001014,level2-ZA_2_00101,Saldanha Bay
+level3-ZA_3_001015,level2-ZA_2_00101,Swartland
+level3-ZA_3_001022,level2-ZA_2_00102,Witzenberg
+level3-ZA_3_001023,level2-ZA_2_00102,Drakenstein
+level3-ZA_3_001024,level2-ZA_2_00102,Stellenbosch
+level3-ZA_3_001025,level2-ZA_2_00102,Breede Valley
+level3-ZA_3_001026,level2-ZA_2_00102,Langeberg
+level3-ZA_3_001031,level2-ZA_2_00103,Theewaterskloof
+level3-ZA_3_001032,level2-ZA_2_00103,Overstrand
+level3-ZA_3_001033,level2-ZA_2_00103,Cape Agulhas
+level3-ZA_3_001034,level2-ZA_2_00103,Swellendam
+level3-ZA_3_001041,level2-ZA_2_00104,Kannaland
+level3-ZA_3_001042,level2-ZA_2_00104,Hessequa
+level3-ZA_3_001043,level2-ZA_2_00104,Mossel Bay
+level3-ZA_3_001044,level2-ZA_2_00104,George
+level3-ZA_3_001045,level2-ZA_2_00104,Oudtshoorn
+level3-ZA_3_001047,level2-ZA_2_00104,Bitou
+level3-ZA_3_001048,level2-ZA_2_00104,Knysna
+level3-ZA_3_001051,level2-ZA_2_00105,Laingsburg
+level3-ZA_3_001052,level2-ZA_2_00105,Prince Albert
+level3-ZA_3_001053,level2-ZA_2_00105,Beaufort West
+level3-ZA_3_001910,level2-ZA_2_00191,City of Cape Town
+level3-ZA_3_002101,level2-ZA_2_00210,Dr Beyers Naude
+level3-ZA_3_002102,level2-ZA_2_00210,Blue Crane Route
+level3-ZA_3_002104,level2-ZA_2_00210,Makana
+level3-ZA_3_002105,level2-ZA_2_00210,Ndlambe
+level3-ZA_3_002106,level2-ZA_2_00210,Sundays River Valley
+level3-ZA_3_002108,level2-ZA_2_00210,Kouga
+level3-ZA_3_002109,level2-ZA_2_00210,Kou-Kamma
+level3-ZA_3_002121,level2-ZA_2_00212,Mbhashe
+level3-ZA_3_002122,level2-ZA_2_00212,Mnquma
+level3-ZA_3_002123,level2-ZA_2_00212,Great Kei
+level3-ZA_3_002124,level2-ZA_2_00212,Amahlathi
+level3-ZA_3_002126,level2-ZA_2_00212,Ngqushwa
+level3-ZA_3_002129,level2-ZA_2_00212,Raymond Mhlaba
+level3-ZA_3_002131,level2-ZA_2_00213,Inxuba Yethemba
+level3-ZA_3_002135,level2-ZA_2_00213,Intsika Yethu
+level3-ZA_3_002136,level2-ZA_2_00213,Emalahleni
+level3-ZA_3_002137,level2-ZA_2_00213,Engcobo
+level3-ZA_3_002138,level2-ZA_2_00213,Sakhisizwe
+level3-ZA_3_002139,level2-ZA_2_00213,Enoch Mgijima
+level3-ZA_3_002141,level2-ZA_2_00214,Elundini
+level3-ZA_3_002142,level2-ZA_2_00214,Senqu
+level3-ZA_3_002145,level2-ZA_2_00214,Walter Sisulu
+level3-ZA_3_002153,level2-ZA_2_00215,Ngquza Hill
+level3-ZA_3_002154,level2-ZA_2_00215,Port St Johns
+level3-ZA_3_002155,level2-ZA_2_00215,Nyandeni
+level3-ZA_3_002156,level2-ZA_2_00215,Mhlontlo
+level3-ZA_3_002157,level2-ZA_2_00215,King Sabata Dalindyebo
+level3-ZA_3_002441,level2-ZA_2_00244,Matatiele
+level3-ZA_3_002442,level2-ZA_2_00244,Umzimvubu
+level3-ZA_3_002443,level2-ZA_2_00244,Mbizana
+level3-ZA_3_002444,level2-ZA_2_00244,Ntabankulu
+level3-ZA_3_002920,level2-ZA_2_00292,Buffalo City
+level3-ZA_3_002930,level2-ZA_2_00293,Nelson Mandela Bay
+level3-ZA_3_003061,level2-ZA_2_00306,Richtersveld
+level3-ZA_3_003062,level2-ZA_2_00306,Nama Khoi
+level3-ZA_3_003064,level2-ZA_2_00306,Kamiesberg
+level3-ZA_3_003065,level2-ZA_2_00306,Hantam
+level3-ZA_3_003066,level2-ZA_2_00306,Karoo Hoogland
+level3-ZA_3_003067,level2-ZA_2_00306,Khâi-Ma
+level3-ZA_3_003071,level2-ZA_2_00307,Ubuntu
+level3-ZA_3_003072,level2-ZA_2_00307,Umsobomvu
+level3-ZA_3_003073,level2-ZA_2_00307,Emthanjeni
+level3-ZA_3_003074,level2-ZA_2_00307,Kareeberg
+level3-ZA_3_003075,level2-ZA_2_00307,Renosterberg
+level3-ZA_3_003076,level2-ZA_2_00307,Thembelihle
+level3-ZA_3_003077,level2-ZA_2_00307,Siyathemba
+level3-ZA_3_003078,level2-ZA_2_00307,Siyancuma
+level3-ZA_3_003082,level2-ZA_2_00308,Kai Garib
+level3-ZA_3_003084,level2-ZA_2_00308,Kheis
+level3-ZA_3_003085,level2-ZA_2_00308,Tsantsabane
+level3-ZA_3_003086,level2-ZA_2_00308,Kgatelopele
+level3-ZA_3_003087,level2-ZA_2_00308,Dawid Kruiper
+level3-ZA_3_003091,level2-ZA_2_00309,Sol Plaatjie
+level3-ZA_3_003092,level2-ZA_2_00309,Dikgatlong
+level3-ZA_3_003093,level2-ZA_2_00309,Magareng
+level3-ZA_3_003094,level2-ZA_2_00309,Phokwane
+level3-ZA_3_003451,level2-ZA_2_00345,Joe Morolong
+level3-ZA_3_003452,level2-ZA_2_00345,Ga-Segonyana
+level3-ZA_3_003453,level2-ZA_2_00345,Gamagara
+level3-ZA_3_004161,level2-ZA_2_00416,Letsemeng
+level3-ZA_3_004162,level2-ZA_2_00416,Kopanong
+level3-ZA_3_004163,level2-ZA_2_00416,Mohokare
+level3-ZA_3_004181,level2-ZA_2_00418,Masilonyana
+level3-ZA_3_004182,level2-ZA_2_00418,Tokologo
+level3-ZA_3_004183,level2-ZA_2_00418,Tswelopele
+level3-ZA_3_004184,level2-ZA_2_00418,Matjhabeng
+level3-ZA_3_004185,level2-ZA_2_00418,Nala
+level3-ZA_3_004191,level2-ZA_2_00419,Setsoto
+level3-ZA_3_004192,level2-ZA_2_00419,Dihlabeng
+level3-ZA_3_004193,level2-ZA_2_00419,Nketoana
+level3-ZA_3_004194,level2-ZA_2_00419,Maluti a Phofung
+level3-ZA_3_004195,level2-ZA_2_00419,Phumelela
+level3-ZA_3_004196,level2-ZA_2_00419,Mantsopa
+level3-ZA_3_004201,level2-ZA_2_00420,Moqhaka
+level3-ZA_3_004203,level2-ZA_2_00420,Ngwathe
+level3-ZA_3_004204,level2-ZA_2_00420,Metsimaholo
+level3-ZA_3_004205,level2-ZA_2_00420,Mafube
+level3-ZA_3_004940,level2-ZA_2_00494,Mangaung
+level3-ZA_3_005212,level2-ZA_2_00521,Umdoni
+level3-ZA_3_005213,level2-ZA_2_00521,Umzumbe
+level3-ZA_3_005214,level2-ZA_2_00521,uMuziwabantu
+level3-ZA_3_005216,level2-ZA_2_00521,Ray Nkonyeni
+level3-ZA_3_005221,level2-ZA_2_00522,uMshwathi
+level3-ZA_3_005222,level2-ZA_2_00522,uMngeni
+level3-ZA_3_005223,level2-ZA_2_00522,Mpofana
+level3-ZA_3_005224,level2-ZA_2_00522,Impendle
+level3-ZA_3_005225,level2-ZA_2_00522,The Msunduzi
+level3-ZA_3_005226,level2-ZA_2_00522,Mkhambathini
+level3-ZA_3_005227,level2-ZA_2_00522,Richmond
+level3-ZA_3_005235,level2-ZA_2_00523,Okhahlamba
+level3-ZA_3_005237,level2-ZA_2_00523,Inkosi Langalibalele
+level3-ZA_3_005238,level2-ZA_2_00523,Alfred Duma
+level3-ZA_3_005241,level2-ZA_2_00524,Endumeni
+level3-ZA_3_005242,level2-ZA_2_00524,Nqutu
+level3-ZA_3_005244,level2-ZA_2_00524,Msinga
+level3-ZA_3_005245,level2-ZA_2_00524,Umvoti
+level3-ZA_3_005252,level2-ZA_2_00525,Newcastle
+level3-ZA_3_005253,level2-ZA_2_00525,Emadlangeni
+level3-ZA_3_005254,level2-ZA_2_00525,Dannhauser
+level3-ZA_3_005261,level2-ZA_2_00526,eDumbe
+level3-ZA_3_005262,level2-ZA_2_00526,uPhongolo
+level3-ZA_3_005263,level2-ZA_2_00526,Abaqulusi
+level3-ZA_3_005265,level2-ZA_2_00526,Nongoma
+level3-ZA_3_005266,level2-ZA_2_00526,Ulundi
+level3-ZA_3_005271,level2-ZA_2_00527,Umhlabuyalingana
+level3-ZA_3_005272,level2-ZA_2_00527,Jozini
+level3-ZA_3_005275,level2-ZA_2_00527,Mtubatuba
+level3-ZA_3_005276,level2-ZA_2_00527,Big Five Hlabisa
+level3-ZA_3_005281,level2-ZA_2_00528,Mfolozi
+level3-ZA_3_005282,level2-ZA_2_00528,uMhlathuze
+level3-ZA_3_005284,level2-ZA_2_00528,uMlalazi
+level3-ZA_3_005285,level2-ZA_2_00528,Mthonjaneni
+level3-ZA_3_005286,level2-ZA_2_00528,Nkandla
+level3-ZA_3_005291,level2-ZA_2_00529,Mandeni
+level3-ZA_3_005292,level2-ZA_2_00529,KwaDukuza
+level3-ZA_3_005293,level2-ZA_2_00529,Ndwedwe
+level3-ZA_3_005294,level2-ZA_2_00529,Maphumulo
+level3-ZA_3_005433,level2-ZA_2_00543,Greater Kokstad
+level3-ZA_3_005434,level2-ZA_2_00543,Ubuhlebezwe
+level3-ZA_3_005435,level2-ZA_2_00543,Umzimkhulu
+level3-ZA_3_005436,level2-ZA_2_00543,Dr Nkosazana Dlamini Zuma
+level3-ZA_3_005950,level2-ZA_2_00595,eThekwini
+level3-ZA_3_006371,level2-ZA_2_00637,Moretele
+level3-ZA_3_006372,level2-ZA_2_00637,Local Municipality of Madibeng
+level3-ZA_3_006373,level2-ZA_2_00637,Rustenburg
+level3-ZA_3_006374,level2-ZA_2_00637,Kgetlengrivier
+level3-ZA_3_006375,level2-ZA_2_00637,Moses Kotane
+level3-ZA_3_006381,level2-ZA_2_00638,Ratlou
+level3-ZA_3_006382,level2-ZA_2_00638,Tswaing
+level3-ZA_3_006383,level2-ZA_2_00638,Mafikeng
+level3-ZA_3_006384,level2-ZA_2_00638,Ditsobotla
+level3-ZA_3_006385,level2-ZA_2_00638,Ramotshere Moiloa
+level3-ZA_3_006392,level2-ZA_2_00639,Naledi
+level3-ZA_3_006393,level2-ZA_2_00639,Mamusa
+level3-ZA_3_006394,level2-ZA_2_00639,Greater Taung
+level3-ZA_3_006396,level2-ZA_2_00639,Lekwa-Teemane
+level3-ZA_3_006397,level2-ZA_2_00639,Kagisano/Molopo
+level3-ZA_3_006403,level2-ZA_2_00640,City of Matlosana
+level3-ZA_3_006404,level2-ZA_2_00640,Maquassi Hills
+level3-ZA_3_006405,level2-ZA_2_00640,Ventersdorp/Tlokwe
+level3-ZA_3_007421,level2-ZA_2_00742,Emfuleni
+level3-ZA_3_007422,level2-ZA_2_00742,Midvaal
+level3-ZA_3_007423,level2-ZA_2_00742,Lesedi
+level3-ZA_3_007481,level2-ZA_2_00748,Mogale City
+level3-ZA_3_007484,level2-ZA_2_00748,Merafong City
+level3-ZA_3_007485,level2-ZA_2_00748,Rand West City
+level3-ZA_3_007970,level2-ZA_2_00797,Ekurhuleni
+level3-ZA_3_007980,level2-ZA_2_00798,City of Johannesburg
+level3-ZA_3_007990,level2-ZA_2_00799,City of Tshwane
+level3-ZA_3_008301,level2-ZA_2_00830,Chief Albert Luthuli
+level3-ZA_3_008302,level2-ZA_2_00830,Msukaligwa
+level3-ZA_3_008303,level2-ZA_2_00830,Mkhondo
+level3-ZA_3_008304,level2-ZA_2_00830,Dr Pixley Ka Isaka Seme
+level3-ZA_3_008305,level2-ZA_2_00830,Lekwa
+level3-ZA_3_008306,level2-ZA_2_00830,Dipaleseng
+level3-ZA_3_008307,level2-ZA_2_00830,Govan Mbeki
+level3-ZA_3_008311,level2-ZA_2_00831,Victor Khanye
+level3-ZA_3_008312,level2-ZA_2_00831,Emalahleni
+level3-ZA_3_008313,level2-ZA_2_00831,Steve Tshwete
+level3-ZA_3_008314,level2-ZA_2_00831,Emakhazeni
+level3-ZA_3_008315,level2-ZA_2_00831,Thembisile
+level3-ZA_3_008316,level2-ZA_2_00831,Dr JS Moroka
+level3-ZA_3_008321,level2-ZA_2_00832,Thaba Chweu
+level3-ZA_3_008324,level2-ZA_2_00832,Nkomazi
+level3-ZA_3_008325,level2-ZA_2_00832,Bushbuckridge
+level3-ZA_3_008326,level2-ZA_2_00832,Mbombela
+level3-ZA_3_009331,level2-ZA_2_00933,Greater Giyani
+level3-ZA_3_009332,level2-ZA_2_00933,Greater Letaba
+level3-ZA_3_009333,level2-ZA_2_00933,Greater Tzaneen
+level3-ZA_3_009334,level2-ZA_2_00933,Ba-Phalaborwa
+level3-ZA_3_009335,level2-ZA_2_00933,Maruleng
+level3-ZA_3_009341,level2-ZA_2_00934,Musina
+level3-ZA_3_009343,level2-ZA_2_00934,Thulamela
+level3-ZA_3_009344,level2-ZA_2_00934,Makhado
+level3-ZA_3_009345,level2-ZA_2_00934,Collins Chabane
+level3-ZA_3_009351,level2-ZA_2_00935,Blouberg
+level3-ZA_3_009353,level2-ZA_2_00935,Molemole
+level3-ZA_3_009354,level2-ZA_2_00935,Polokwane
+level3-ZA_3_009355,level2-ZA_2_00935,Lepele-Nkumpi
+level3-ZA_3_009361,level2-ZA_2_00936,Thabazimbi
+level3-ZA_3_009362,level2-ZA_2_00936,Lephalale
+level3-ZA_3_009366,level2-ZA_2_00936,Bela-Bela
+level3-ZA_3_009367,level2-ZA_2_00936,Mogalakwena
+level3-ZA_3_009368,level2-ZA_2_00936,Modimolle/Mookgophong
+level3-ZA_3_009471,level2-ZA_2_00947,Ephraim Mogale
+level3-ZA_3_009472,level2-ZA_2_00947,Elias Motsoaledi
+level3-ZA_3_009473,level2-ZA_2_00947,Makhuduthamaga
+level3-ZA_3_009476,level2-ZA_2_00947,Greater Tubatse/Fetakgomo
+level2-KE_2_027144,level1-KE_1_027,Ainabkoi
+level2-KE_2_035190,level1-KE_1_035,Ainamoi
+level2-KE_2_029152,level1-KE_1_029,Aldai
+level2-KE_2_041234,level1-KE_1_041,Alego Usonga
+level2-KE_2_044254,level1-KE_1_044,Awendo
+level2-KE_2_032174,level1-KE_1_032,Bahati
+level2-KE_2_007028,level1-KE_1_007,Balambala
+level2-KE_2_009040,level1-KE_1_009,Banissa
+level2-KE_2_030159,level1-KE_1_030,Baringo Central
+level2-KE_2_030158,level1-KE_1_030,Baringo North
+level2-KE_2_030160,level1-KE_1_030,Baringo South
+level2-KE_2_035192,level1-KE_1_035,Belgut
+level2-KE_2_045264,level1-KE_1_045,Bobasi
+level2-KE_2_045263,level1-KE_1_045,Bomachoge Borabu
+level2-KE_2_045265,level1-KE_1_045,Bomachoge Chache
+level2-KE_2_036197,level1-KE_1_036,Bomet Central
+level2-KE_2_036196,level1-KE_1_036,Bomet East
+level2-KE_2_045261,level1-KE_1_045,Bonchari
+level2-KE_2_041236,level1-KE_1_041,Bondo
+level2-KE_2_046273,level1-KE_1_046,Borabu
+level2-KE_2_040231,level1-KE_1_040,Budalangi
+level2-KE_2_039219,level1-KE_1_039,Bumula
+level2-KE_2_004020,level1-KE_1_004,Bura
+level2-KE_2_035191,level1-KE_1_035,Buret
+level2-KE_2_037207,level1-KE_1_037,Butere
+level2-KE_2_040229,level1-KE_1_040,Butula
+level2-KE_2_012057,level1-KE_1_012,Buuri
+level2-KE_2_012058,level1-KE_1_012,Cental Imenti
+level2-KE_2_001001,level1-KE_1_001,Changamwe
+level2-KE_2_036195,level1-KE_1_036,Chepalungu
+level2-KE_2_026140,level1-KE_1_026,Cherangany
+level2-KE_2_029154,level1-KE_1_029,Chesumei
+level2-KE_2_007030,level1-KE_1_007,Dadaab
+level2-KE_2_047276,level1-KE_1_047,Dagoretti
+level2-KE_2_007027,level1-KE_1_007,Dujis
+level2-KE_2_030162,level1-KE_1_030,Eldama Ravine
+level2-KE_2_008037,level1-KE_1_008,Eldas
+level2-KE_2_047284,level1-KE_1_047,Embakasi Central
+level2-KE_2_047285,level1-KE_1_047,Embakasi East
+level2-KE_2_047283,level1-KE_1_047,Embakasi North
+level2-KE_2_047282,level1-KE_1_047,Embakasi South
+level2-KE_2_047286,level1-KE_1_047,Embakasi West
+level2-KE_2_029155,level1-KE_1_029,Emgwen
+level2-KE_2_038215,level1-KE_1_038,Emuhaya
+level2-KE_2_033178,level1-KE_1_033,Emurua Dikirr
+level2-KE_2_026137,level1-KE_1_026,Endebess
+level2-KE_2_007031,level1-KE_1_007,Fafi
+level2-KE_2_040230,level1-KE_1_040,Funyula
+level2-KE_2_014065,level1-KE_1_014,Gachoka
+level2-KE_2_004019,level1-KE_1_004,Galole
+level2-KE_2_003015,level1-KE_1_003,Ganze
+level2-KE_2_004018,level1-KE_1_004,Garsen
+level2-KE_2_021110,level1-KE_1_021,Gatanga
+level2-KE_2_022112,level1-KE_1_022,Gatundu North
+level2-KE_2_022111,level1-KE_1_022,Gatundu South
+level2-KE_2_041235,level1-KE_1_041,Gem
+level2-KE_2_020101,level1-KE_1_020,Gichugu
+level2-KE_2_032169,level1-KE_1_032,Gilgil
+level2-KE_2_022116,level1-KE_1_022,Githunguri
+level2-KE_2_038213,level1-KE_1_038,Hamisi
+level2-KE_2_043249,level1-KE_1_043,Homa Bay
+level2-KE_2_012052,level1-KE_1_012,Igembe Central
+level2-KE_2_012053,level1-KE_1_012,Igembe North
+level2-KE_2_012051,level1-KE_1_012,Igembe South
+level2-KE_2_007032,level1-KE_1_007,Ijara
+level2-KE_2_037210,level1-KE_1_037,Ikolomani
+level2-KE_2_011049,level1-KE_1_011,Isiolo North
+level2-KE_2_011050,level1-KE_1_011,Isiolo South
+level2-KE_2_001002,level1-KE_1_001,Jomvu
+level2-KE_2_022113,level1-KE_1_022,Juja
+level2-KE_2_022119,level1-KE_1_022,Kabete
+level2-KE_2_043246,level1-KE_1_043,Kabondo Kasipul
+level2-KE_2_039218,level1-KE_1_039,Kabuchai
+level2-KE_2_024131,level1-KE_1_024,Kacheliba
+level2-KE_2_017085,level1-KE_1_017,Kaiti
+level2-KE_2_034184,level1-KE_1_034,Kajiado Central
+level2-KE_2_034186,level1-KE_1_034,Kajiado East
+level2-KE_2_034183,level1-KE_1_034,Kajiado North
+level2-KE_2_034187,level1-KE_1_034,Kajiado South
+level2-KE_2_034185,level1-KE_1_034,Kajiado West
+level2-KE_2_003013,level1-KE_1_003,Kaloleni
+level2-KE_2_047288,level1-KE_1_047,Kamukunji
+level2-KE_2_021109,level1-KE_1_021,Kandara
+level2-KE_2_039220,level1-KE_1_039,Kanduyi
+level2-KE_2_021104,level1-KE_1_021,Kangema
+level2-KE_2_016077,level1-KE_1_016,Kangundo
+level2-KE_2_024129,level1-KE_1_024,Kapenguria
+level2-KE_2_027145,level1-KE_1_027,Kapseret
+level2-KE_2_043247,level1-KE_1_043,Karachuonyo
+level2-KE_2_047280,level1-KE_1_047,Kasarani
+level2-KE_2_043245,level1-KE_1_043,Kasipul
+level2-KE_2_016079,level1-KE_1_016,Kathiani
+level2-KE_2_028149,level1-KE_1_028,Keiyo North
+level2-KE_2_028150,level1-KE_1_028,Keiyo South
+level2-KE_2_027146,level1-KE_1_027,Kesses
+level2-KE_2_037208,level1-KE_1_037,Khwisero
+level2-KE_2_022118,level1-KE_1_022,Kiambaa
+level2-KE_2_022117,level1-KE_1_022,Kiambu
+level2-KE_2_047278,level1-KE_1_047,Kibra
+level2-KE_2_017088,level1-KE_1_017,Kibwezi East
+level2-KE_2_017087,level1-KE_1_017,Kibwezi West
+level2-KE_2_019095,level1-KE_1_019,Kieni
+level2-KE_2_021107,level1-KE_1_021,Kigumo
+level2-KE_2_021106,level1-KE_1_021,Kiharu
+level2-KE_2_022120,level1-KE_1_022,Kikuyu
+level2-KE_2_033177,level1-KE_1_033,Kilgoris
+level2-KE_2_003011,level1-KE_1_003,Kilifi North
+level2-KE_2_003012,level1-KE_1_003,Kilifi South
+level2-KE_2_047275,level1-KE_1_047,Kilimani
+level2-KE_2_017084,level1-KE_1_017,Kilome
+level2-KE_2_039223,level1-KE_1_039,Kimilili
+level2-KE_2_026139,level1-KE_1_026,Kiminini
+level2-KE_2_002010,level1-KE_1_002,Kinango
+level2-KE_2_018089,level1-KE_1_018,Kinangop
+level2-KE_2_018090,level1-KE_1_018,Kipipiri
+level2-KE_2_035188,level1-KE_1_035,Kipkelion East
+level2-KE_2_035189,level1-KE_1_035,Kipkelion West
+level2-KE_2_020103,level1-KE_1_020,Kirinyaga Central
+level2-KE_2_001003,level1-KE_1_001,Kisauni
+level2-KE_2_042240,level1-KE_1_042,Kisumu Central
+level2-KE_2_042238,level1-KE_1_042,Kisumu East
+level2-KE_2_042239,level1-KE_1_042,Kisumu West
+level2-KE_2_015072,level1-KE_1_015,Kitui Central
+level2-KE_2_015073,level1-KE_1_015,Kitui East
+level2-KE_2_015071,level1-KE_1_015,Kitui Rural
+level2-KE_2_015074,level1-KE_1_015,Kitui South
+level2-KE_2_015070,level1-KE_1_015,Kitui West
+level2-KE_2_045268,level1-KE_1_045,Kitutu Chache North
+level2-KE_2_045269,level1-KE_1_045,Kitutu Chache South
+level2-KE_2_046270,level1-KE_1_046,Kitutu Masaba
+level2-KE_2_036198,level1-KE_1_036,Konoin
+level2-KE_2_032171,level1-KE_1_032,Kuresoi North
+level2-KE_2_032170,level1-KE_1_032,Kuresoi South
+level2-KE_2_044260,level1-KE_1_044,Kuria East
+level2-KE_2_044259,level1-KE_1_044,Kuria West
+level2-KE_2_026136,level1-KE_1_026,Kwanza
+level2-KE_2_009044,level1-KE_1_009,Lafey
+level2-KE_2_007029,level1-KE_1_007,Lagdera
+level2-KE_2_031164,level1-KE_1_031,Laikipia East
+level2-KE_2_031165,level1-KE_1_031,Laikipia North
+level2-KE_2_031163,level1-KE_1_031,Laikipia West
+level2-KE_2_010048,level1-KE_1_010,Laisamis
+level2-KE_2_005021,level1-KE_1_005,Lamu East
+level2-KE_2_005022,level1-KE_1_005,Lamu West
+level2-KE_2_047277,level1-KE_1_047,Langata
+level2-KE_2_022122,level1-KE_1_022,Lari
+level2-KE_2_001005,level1-KE_1_001,Likoni
+level2-KE_2_037200,level1-KE_1_037,Likuyani
+level2-KE_2_022121,level1-KE_1_022,Limuru
+level2-KE_2_023126,level1-KE_1_023,Loima
+level2-KE_2_038214,level1-KE_1_038,Luanda
+level2-KE_2_037199,level1-KE_1_037,Lugari
+level2-KE_2_002008,level1-KE_1_002,Lunga Lunga
+level2-KE_2_037202,level1-KE_1_037,Lurambi
+level2-KE_2_013061,level1-KE_1_013,Maara
+level2-KE_2_016081,level1-KE_1_016,Machakos Town
+level2-KE_2_003017,level1-KE_1_003,Magarini
+level2-KE_2_047287,level1-KE_1_047,Makadara
+level2-KE_2_017086,level1-KE_1_017,Makueni
+level2-KE_2_037201,level1-KE_1_037,Malava
+level2-KE_2_003016,level1-KE_1_003,Malindi
+level2-KE_2_009043,level1-KE_1_009,Mandera East
+level2-KE_2_009041,level1-KE_1_009,Mandera North
+level2-KE_2_009042,level1-KE_1_009,Mandera South
+level2-KE_2_009039,level1-KE_1_009,Mandera West
+level2-KE_2_014063,level1-KE_1_014,Manyatta
+level2-KE_2_021108,level1-KE_1_021,Maragwa
+level2-KE_2_028147,level1-KE_1_028,Marakwet East
+level2-KE_2_028148,level1-KE_1_028,Marakwet West
+level2-KE_2_016075,level1-KE_1_016,Masinga
+level2-KE_2_040228,level1-KE_1_040,Matayos
+level2-KE_2_047290,level1-KE_1_047,Mathare
+level2-KE_2_021105,level1-KE_1_021,Mathioya
+level2-KE_2_019096,level1-KE_1_019,Mathira
+level2-KE_2_002009,level1-KE_1_002,Matuga
+level2-KE_2_037206,level1-KE_1_037,Matungu
+level2-KE_2_016078,level1-KE_1_016,Matungulu
+level2-KE_2_016080,level1-KE_1_016,Mavoko
+level2-KE_2_017083,level1-KE_1_017,Mbooni
+level2-KE_2_030161,level1-KE_1_030,Mogotio
+level2-KE_2_027143,level1-KE_1_027,Moiben
+level2-KE_2_032166,level1-KE_1_032,Molo
+level2-KE_2_029156,level1-KE_1_029,Mosop
+level2-KE_2_010045,level1-KE_1_010,Moyale
+level2-KE_2_002007,level1-KE_1_002,Msambweni
+level2-KE_2_039216,level1-KE_1_039,Mt. Elgon
+level2-KE_2_042243,level1-KE_1_042,Muhoroni
+level2-KE_2_019098,level1-KE_1_019,Mukurweni
+level2-KE_2_037205,level1-KE_1_037,Mumias East
+level2-KE_2_037204,level1-KE_1_037,Mumias West
+level2-KE_2_001006,level1-KE_1_001,Mvita
+level2-KE_2_016082,level1-KE_1_016,Mwala
+level2-KE_2_006025,level1-KE_1_006,Mwatate
+level2-KE_2_020100,level1-KE_1_020,Mwea
+level2-KE_2_015069,level1-KE_1_015,Mwingi East
+level2-KE_2_015067,level1-KE_1_015,Mwingi North
+level2-KE_2_015068,level1-KE_1_015,Mwingi West
+level2-KE_2_032168,level1-KE_1_032,Naivasha
+level2-KE_2_032176,level1-KE_1_032,Nakuru Town East
+level2-KE_2_032175,level1-KE_1_032,Nakuru Town West
+level2-KE_2_040227,level1-KE_1_040,Nambale
+level2-KE_2_029153,level1-KE_1_029,Nandi Hills
+level2-KE_2_033180,level1-KE_1_033,Narok East
+level2-KE_2_033179,level1-KE_1_033,Narok North
+level2-KE_2_033181,level1-KE_1_033,Narok South
+level2-KE_2_033182,level1-KE_1_033,Narok West
+level2-KE_2_037203,level1-KE_1_037,Navakholo
+level2-KE_2_018093,level1-KE_1_018,Ndaragwa
+level2-KE_2_043250,level1-KE_1_043,Ndhiwa
+level2-KE_2_020102,level1-KE_1_020,Ndia
+level2-KE_2_013060,level1-KE_1_013,Nithi
+level2-KE_2_032167,level1-KE_1_032,Njoro
+level2-KE_2_010046,level1-KE_1_010,North Horr
+level2-KE_2_012056,level1-KE_1_012,North Imenti
+level2-KE_2_046272,level1-KE_1_046,North Mugirango
+level2-KE_2_042244,level1-KE_1_042,Nyakach
+level2-KE_2_001004,level1-KE_1_001,Nyali
+level2-KE_2_042242,level1-KE_1_042,Nyando
+level2-KE_2_045267,level1-KE_1_045,Nyaribari Chache
+level2-KE_2_045266,level1-KE_1_045,Nyaribari Masaba
+level2-KE_2_044258,level1-KE_1_044,Nyatike
+level2-KE_2_019099,level1-KE_1_019,Nyeri Town
+level2-KE_2_018092,level1-KE_1_018,Ol Jorok
+level2-KE_2_018091,level1-KE_1_018,Ol Kalou
+level2-KE_2_019097,level1-KE_1_019,Othaya
+level2-KE_2_024132,level1-KE_1_024,Pokot South
+level2-KE_2_003014,level1-KE_1_003,Rabai
+level2-KE_2_043248,level1-KE_1_043,Rangwe
+level2-KE_2_041237,level1-KE_1_041,Rarieda
+level2-KE_2_032173,level1-KE_1_032,Rongai
+level2-KE_2_044253,level1-KE_1_044,Rongo
+level2-KE_2_047279,level1-KE_1_047,Roysambu
+level2-KE_2_047281,level1-KE_1_047,Ruaraka
+level2-KE_2_022115,level1-KE_1_022,Ruiru
+level2-KE_2_014064,level1-KE_1_014,Runyenjes
+level2-KE_2_038212,level1-KE_1_038,Sabatia
+level2-KE_2_026138,level1-KE_1_026,Saboti
+level2-KE_2_010047,level1-KE_1_010,Saku
+level2-KE_2_025135,level1-KE_1_025,Samburu East
+level2-KE_2_025134,level1-KE_1_025,Samburu North
+level2-KE_2_025133,level1-KE_1_025,Samburu West
+level2-KE_2_042241,level1-KE_1_042,Seme
+level2-KE_2_037209,level1-KE_1_037,Shinyalu
+level2-KE_2_014066,level1-KE_1_014,Siakago
+level2-KE_2_024130,level1-KE_1_024,Sigor
+level2-KE_2_035193,level1-KE_1_035,Sigowet/Soin
+level2-KE_2_039217,level1-KE_1_039,Sirisia
+level2-KE_2_036194,level1-KE_1_036,Sotik
+level2-KE_2_012059,level1-KE_1_012,South Imenti
+level2-KE_2_045262,level1-KE_1_045,South Mugirango
+level2-KE_2_027141,level1-KE_1_027,Soy
+level2-KE_2_047289,level1-KE_1_047,Starehe
+level2-KE_2_043251,level1-KE_1_043,Suba North
+level2-KE_2_043252,level1-KE_1_043,Suba South
+level2-KE_2_032172,level1-KE_1_032,Subukia
+level2-KE_2_044255,level1-KE_1_044,Suna East
+level2-KE_2_044256,level1-KE_1_044,Suna West
+level2-KE_2_008035,level1-KE_1_008,Tarbaj
+level2-KE_2_006023,level1-KE_1_006,Taveta
+level2-KE_2_040225,level1-KE_1_040,Teso North
+level2-KE_2_040226,level1-KE_1_040,Teso South
+level2-KE_2_019094,level1-KE_1_019,Tetu
+level2-KE_2_013062,level1-KE_1_013,Tharaka
+level2-KE_2_022114,level1-KE_1_022,Thika Town
+level2-KE_2_030157,level1-KE_1_030,Tiaty
+level2-KE_2_012055,level1-KE_1_012,Tigania East
+level2-KE_2_012054,level1-KE_1_012,Tigania West
+level2-KE_2_029151,level1-KE_1_029,Tinderet
+level2-KE_2_039224,level1-KE_1_039,Tongaren
+level2-KE_2_027142,level1-KE_1_027,Turbo
+level2-KE_2_023125,level1-KE_1_023,Turkana Central
+level2-KE_2_023128,level1-KE_1_023,Turkana East
+level2-KE_2_023123,level1-KE_1_023,Turkana North
+level2-KE_2_023127,level1-KE_1_023,Turkana South
+level2-KE_2_023124,level1-KE_1_023,Turkana West
+level2-KE_2_041232,level1-KE_1_041,Ugenya
+level2-KE_2_041233,level1-KE_1_041,Ugunja
+level2-KE_2_044257,level1-KE_1_044,Uriri
+level2-KE_2_038211,level1-KE_1_038,Vihiga
+level2-KE_2_006026,level1-KE_1_006,Voi
+level2-KE_2_008034,level1-KE_1_008,Wajir East
+level2-KE_2_008033,level1-KE_1_008,Wajir North
+level2-KE_2_008038,level1-KE_1_008,Wajir South
+level2-KE_2_008036,level1-KE_1_008,Wajir West
+level2-KE_2_039221,level1-KE_1_039,Webuye East
+level2-KE_2_039222,level1-KE_1_039,Webuye West
+level2-KE_2_046271,level1-KE_1_046,West Mugirango
+level2-KE_2_047274,level1-KE_1_047,Westlands
+level2-KE_2_006024,level1-KE_1_006,Wundanyi
+level2-KE_2_016076,level1-KE_1_016,Yatta
+level1-MA_1_001,country-MA,Chaouia - Ouardigha
+level1-MA_1_002,country-MA,Doukkala - Abda
+level1-MA_1_003,country-MA,Fès - Boulemane
+level1-MA_1_004,country-MA,Gharb - Chrarda - Béni Hssen
+level1-MA_1_005,country-MA,Grand Casablanca
+level1-MA_1_006,country-MA,Guelmim - Es-Semara
+level1-MA_1_007,country-MA,Laâyoune - Boujdour - Sakia El Hamra
+level1-MA_1_008,country-MA,Marrakech - Tensift - Al Haouz
+level1-MA_1_009,country-MA,Meknès - Tafilalet
+level1-MA_1_010,country-MA,Oriental
+level1-MA_1_011,country-MA,Rabat - Salé - Zemmour - Zaer
+level1-MA_1_012,country-MA,Souss - Massa - Draâ
+level1-MA_1_013,country-MA,Tadla - Azilal
+level1-MA_1_014,country-MA,Tanger - Tétouan
+level1-MA_1_015,country-MA,Taza - Al Hoceima - Taounate
+level2-MA_2_0001,level1-MA_1_001,Ben Slimane
+level2-MA_2_0002,level1-MA_1_001,Khouribga
+level2-MA_2_0003,level1-MA_1_001,Settat
+level2-MA_2_0004,level1-MA_1_002,El Jadida
+level2-MA_2_0005,level1-MA_1_002,Safi
+level2-MA_2_0006,level1-MA_1_003,Boulemane
+level2-MA_2_0007,level1-MA_1_003,Fès
+level2-MA_2_0008,level1-MA_1_003,Sefrou
+level2-MA_2_0009,level1-MA_1_003,Zouagha-Moulay Yacoub
+level2-MA_2_0010,level1-MA_1_004,Kénitra
+level2-MA_2_0011,level1-MA_1_004,Sidi Kacem
+level2-MA_2_0012,level1-MA_1_005,Casablanca
+level2-MA_2_0013,level1-MA_1_005,Mohammedia
+level2-MA_2_0014,level1-MA_1_006,Assa-Zag
+level2-MA_2_0015,level1-MA_1_006,Guelmim
+level2-MA_2_0016,level1-MA_1_006,Tan-Tan
+level2-MA_2_0017,level1-MA_1_006,Tata
+level2-MA_2_0018,level1-MA_1_007,Laâyoune
+level2-MA_2_0019,level1-MA_1_008,Al Haouz
+level2-MA_2_0020,level1-MA_1_008,Chichaoua
+level2-MA_2_0021,level1-MA_1_008,El Kelaâ des Sraghna
+level2-MA_2_0022,level1-MA_1_008,Essaouira
+level2-MA_2_0023,level1-MA_1_008,Marrakech
+level2-MA_2_0024,level1-MA_1_009,El Hajeb
+level2-MA_2_0025,level1-MA_1_009,Errachidia
+level2-MA_2_0026,level1-MA_1_009,Ifrane
+level2-MA_2_0027,level1-MA_1_009,Khénifra
+level2-MA_2_0028,level1-MA_1_009,Meknès
+level2-MA_2_0029,level1-MA_1_010,Berkane Taourirt
+level2-MA_2_0029,level1-MA_1_010,Berkane Taourirt
+level2-MA_2_0030,level1-MA_1_010,Figuig
+level2-MA_2_0031,level1-MA_1_010,Jerada
+level2-MA_2_0031,level1-MA_1_010,Jerada
+level2-MA_2_0032,level1-MA_1_010,Nador
+level2-MA_2_0033,level1-MA_1_010,Oujda Angad
+level2-MA_2_0034,level1-MA_1_011,Khémisset
+level2-MA_2_0035,level1-MA_1_011,Rabat
+level2-MA_2_0036,level1-MA_1_011,Salé
+level2-MA_2_0037,level1-MA_1_011,Skhirate-Témara
+level2-MA_2_0038,level1-MA_1_012,Agadir-Ida ou Tanane
+level2-MA_2_0039,level1-MA_1_012,Chtouka-Aït Baha
+level2-MA_2_0040,level1-MA_1_012,Inezgane-Aït Melloul
+level2-MA_2_0041,level1-MA_1_012,Ouarzazate
+level2-MA_2_0041,level1-MA_1_012,Ouarzazate
+level2-MA_2_0042,level1-MA_1_012,Taroudannt
+level2-MA_2_0043,level1-MA_1_012,Tiznit
+level2-MA_2_0044,level1-MA_1_012,Zagora
+level2-MA_2_0045,level1-MA_1_013,Azilal
+level2-MA_2_0046,level1-MA_1_013,Béni Mellal
+level2-MA_2_0047,level1-MA_1_014,Chefchaouen
+level2-MA_2_0048,level1-MA_1_014,Fahs Anjra
+level2-MA_2_0049,level1-MA_1_014,Larache
+level2-MA_2_0050,level1-MA_1_014,Tétouan
+level2-MA_2_0051,level1-MA_1_014,Tanger-Assilah
+level2-MA_2_0052,level1-MA_1_015,Al Hoceïma
+level2-MA_2_0053,level1-MA_1_015,Taounate
+level2-MA_2_0054,level1-MA_1_015,Taza
+level3-MA_3_00001,level2-MA_2_0001,Ben Slimane
+level3-MA_3_00002,level2-MA_2_0001,Bouznika
+level3-MA_3_00003,level2-MA_2_0001,NA (Ben Slimane)
+level3-MA_3_00004,level2-MA_2_0001,NA (Bouznika)
+level3-MA_3_00005,level2-MA_2_0002,Bejaad
+level3-MA_3_00006,level2-MA_2_0002,Khouribga
+level3-MA_3_00007,level2-MA_2_0002,NA (Bejaad)
+level3-MA_3_00008,level2-MA_2_0002,NA (Boujniba)
+level3-MA_3_00009,level2-MA_2_0002,NA (Hattane)
+level3-MA_3_00010,level2-MA_2_0002,NA (Khouribga)
+level3-MA_3_00011,level2-MA_2_0002,NA (Ouad Zem)
+level3-MA_3_00012,level2-MA_2_0002,Ouad Zem
+level3-MA_3_00013,level2-MA_2_0003,Ben Ahmed
+level3-MA_3_00014,level2-MA_2_0003,Berrechid
+level3-MA_3_00015,level2-MA_2_0003,El Borouj
+level3-MA_3_00016,level2-MA_2_0003,El Gara
+level3-MA_3_00017,level2-MA_2_0003,NA (Ben Ahmed)
+level3-MA_3_00018,level2-MA_2_0003,NA (Berrechid)
+level3-MA_3_00019,level2-MA_2_0003,NA (El Borouj)
+level3-MA_3_00020,level2-MA_2_0003,NA (El Gara)
+level3-MA_3_00021,level2-MA_2_0003,NA (Loulad)
+level3-MA_3_00022,level2-MA_2_0003,NA (Oulad Abbou)
+level3-MA_3_00023,level2-MA_2_0003,NA (Oulad M'Rah)
+level3-MA_3_00024,level2-MA_2_0003,NA (Settat)
+level3-MA_3_00025,level2-MA_2_0003,Settat
+level3-MA_3_00026,level2-MA_2_0004,Azemmour
+level3-MA_3_00027,level2-MA_2_0004,El Jadida
+level3-MA_3_00028,level2-MA_2_0004,NA (Azemmour)
+level3-MA_3_00029,level2-MA_2_0004,NA (El Jadida)
+level3-MA_3_00030,level2-MA_2_0004,NA (Lbir Jdid)
+level3-MA_3_00031,level2-MA_2_0004,NA (Sidi Bennour)
+level3-MA_3_00032,level2-MA_2_0004,NA (Zemamra)
+level3-MA_3_00033,level2-MA_2_0004,Sidi Bennou
+level3-MA_3_00034,level2-MA_2_0004,Sidi Smail
+level3-MA_3_00035,level2-MA_2_0004,Zemamra
+level3-MA_3_00036,level2-MA_2_0005,Abda
+level3-MA_3_00037,level2-MA_2_0005,Ahmar
+level3-MA_3_00038,level2-MA_2_0005,Gzoula
+level3-MA_3_00039,level2-MA_2_0005,Hrara
+level3-MA_3_00040,level2-MA_2_0005,NA (Asfi Biyada)
+level3-MA_3_00041,level2-MA_2_0005,NA (Asfi Boudheb)
+level3-MA_3_00042,level2-MA_2_0005,NA (Asfi Zaouia)
+level3-MA_3_00043,level2-MA_2_0005,NA (Echemmaia)
+level3-MA_3_00044,level2-MA_2_0005,NA (Jamaat Shaim)
+level3-MA_3_00045,level2-MA_2_0005,NA (Sebt Gzoula)
+level3-MA_3_00046,level2-MA_2_0005,NA (Youssoufia)
+level3-MA_3_00047,level2-MA_2_0006,Boulemane
+level3-MA_3_00048,level2-MA_2_0006,Missour
+level3-MA_3_00049,level2-MA_2_0006,NA (Boulemane)
+level3-MA_3_00050,level2-MA_2_0006,NA (Imouzzer Marmoucha)
+level3-MA_3_00051,level2-MA_2_0006,NA (Missour)
+level3-MA_3_00052,level2-MA_2_0006,NA (Outat El Haj)
+level3-MA_3_00053,level2-MA_2_0006,Outat El Ha
+level3-MA_3_00054,level2-MA_2_0007,NA (Agdal)
+level3-MA_3_00055,level2-MA_2_0007,NA (Fes Medina)
+level3-MA_3_00056,level2-MA_2_0007,NA (Machouar Fes El Jadid)
+level3-MA_3_00057,level2-MA_2_0007,NA (Saiss)
+level3-MA_3_00058,level2-MA_2_0007,Oulad Tayeb
+level3-MA_3_00059,level2-MA_2_0007,Sans nom
+level3-MA_3_00060,level2-MA_2_0008,El Menzel
+level3-MA_3_00061,level2-MA_2_0008,Imouzzer Ka
+level3-MA_3_00062,level2-MA_2_0008,NA (Bhalil)
+level3-MA_3_00063,level2-MA_2_0008,NA (El Menzel)
+level3-MA_3_00064,level2-MA_2_0008,NA (Imouzzer Kandar)
+level3-MA_3_00065,level2-MA_2_0008,NA (Ribate El Kheir)
+level3-MA_3_00066,level2-MA_2_0008,NA (Sefrou)
+level3-MA_3_00067,level2-MA_2_0008,Sefrou
+level3-MA_3_00068,level2-MA_2_0009,Moulay Yaco
+level3-MA_3_00069,level2-MA_2_0009,NA (Moulay Yacoub)
+level3-MA_3_00070,level2-MA_2_0009,NA (Zouagha)
+level3-MA_3_00071,level2-MA_2_0009,Oulad Jemaa
+level3-MA_3_00072,level2-MA_2_0010,Kenitra Ban
+level3-MA_3_00073,level2-MA_2_0010,NA (Kenitra Maamoura)
+level3-MA_3_00074,level2-MA_2_0010,NA (Kenitra Saknia)
+level3-MA_3_00075,level2-MA_2_0010,NA (Mehdia)
+level3-MA_3_00076,level2-MA_2_0010,NA (Sidi Slimane)
+level3-MA_3_00077,level2-MA_2_0010,NA (Sidi Yahya El Gharb)
+level3-MA_3_00078,level2-MA_2_0010,NA (Souk Arbaa)
+level3-MA_3_00079,level2-MA_2_0010,Sidi Sliman
+level3-MA_3_00080,level2-MA_2_0010,Souk Arbaa
+level3-MA_3_00081,level2-MA_2_0010,Souk Tlat E
+level3-MA_3_00082,level2-MA_2_0011,Had Kourt
+level3-MA_3_00083,level2-MA_2_0011,Mechra Belk
+level3-MA_3_00084,level2-MA_2_0011,NA (Dar Gueddari)
+level3-MA_3_00085,level2-MA_2_0011,NA (Had Kourt)
+level3-MA_3_00086,level2-MA_2_0011,NA (Jorf El Melha)
+level3-MA_3_00087,level2-MA_2_0011,NA (Mechraa Bel Ksiri)
+level3-MA_3_00088,level2-MA_2_0011,NA (Ouezzane)
+level3-MA_3_00089,level2-MA_2_0011,NA (Sidi Kacem)
+level3-MA_3_00090,level2-MA_2_0011,Ouezzane
+level3-MA_3_00091,level2-MA_2_0011,Sidi Kacem
+level3-MA_3_00092,level2-MA_2_0012,Bouskoura
+level3-MA_3_00093,level2-MA_2_0012,Mediouna
+level3-MA_3_00094,level2-MA_2_0012,NA (Ahl Laghlam)
+level3-MA_3_00095,level2-MA_2_0012,NA (Ain Chock)
+level3-MA_3_00096,level2-MA_2_0012,NA (Ain Harrouda)
+level3-MA_3_00097,level2-MA_2_0012,NA (Ain Sebaa)
+level3-MA_3_00098,level2-MA_2_0012,NA (Al Fida)
+level3-MA_3_00099,level2-MA_2_0012,NA (Al Idrissia)
+level3-MA_3_00100,level2-MA_2_0012,NA (Anfa)
+level3-MA_3_00101,level2-MA_2_0012,NA (Assoukhour Assawda)
+level3-MA_3_00102,level2-MA_2_0012,NA (Ben Msick)
+level3-MA_3_00103,level2-MA_2_0012,NA (Bou Chentouf)
+level3-MA_3_00104,level2-MA_2_0012,NA (El Maarif)
+level3-MA_3_00105,level2-MA_2_0012,NA (Hay Hassani)
+level3-MA_3_00106,level2-MA_2_0012,NA (Hay Mohammadi)
+level3-MA_3_00107,level2-MA_2_0012,NA (Lissasfa)
+level3-MA_3_00108,level2-MA_2_0012,NA (Machouar Casablanca)
+level3-MA_3_00109,level2-MA_2_0012,NA (Mediouna)
+level3-MA_3_00110,level2-MA_2_0012,NA (Mers Sultan)
+level3-MA_3_00111,level2-MA_2_0012,NA (Moulay Rachid)
+level3-MA_3_00112,level2-MA_2_0012,NA (Moulay Youssef)
+level3-MA_3_00113,level2-MA_2_0012,NA (Nouaceur)
+level3-MA_3_00114,level2-MA_2_0012,NA (Salmia)
+level3-MA_3_00115,level2-MA_2_0012,NA (Sbata)
+level3-MA_3_00116,level2-MA_2_0012,NA (Sidi Belyout)
+level3-MA_3_00117,level2-MA_2_0012,NA (Sidi Bernoussi)
+level3-MA_3_00118,level2-MA_2_0012,NA (Sidi Maarouf)
+level3-MA_3_00119,level2-MA_2_0012,NA (Sidi Moumen)
+level3-MA_3_00120,level2-MA_2_0012,NA (Sidi Othmane)
+level3-MA_3_00121,level2-MA_2_0012,NA (Tit Mellil)
+level3-MA_3_00122,level2-MA_2_0012,Tit Mellil
+level3-MA_3_00123,level2-MA_2_0013,NA (Mohammedia)
+level3-MA_3_00124,level2-MA_2_0014,Assa
+level3-MA_3_00125,level2-MA_2_0014,NA (Assa)
+level3-MA_3_00126,level2-MA_2_0014,NA (Zag)
+level3-MA_3_00127,level2-MA_2_0014,Zag
+level3-MA_3_00128,level2-MA_2_0015,Bouizakarne
+level3-MA_3_00129,level2-MA_2_0015,Guelmim
+level3-MA_3_00130,level2-MA_2_0015,NA (Bouizakarne)
+level3-MA_3_00131,level2-MA_2_0015,NA (Guelmim)
+level3-MA_3_00132,level2-MA_2_0016,Msied
+level3-MA_3_00133,level2-MA_2_0016,NA (El Ouatia)
+level3-MA_3_00134,level2-MA_2_0016,NA (Tan-Tan)
+level3-MA_3_00135,level2-MA_2_0016,Tan-Tan
+level3-MA_3_00136,level2-MA_2_0017,Akka
+level3-MA_3_00137,level2-MA_2_0017,Foum Zguid
+level3-MA_3_00138,level2-MA_2_0017,NA (Akka)
+level3-MA_3_00139,level2-MA_2_0017,NA (Fam El Hisn)
+level3-MA_3_00140,level2-MA_2_0017,NA (Foum Zguid)
+level3-MA_3_00141,level2-MA_2_0017,NA (Tata)
+level3-MA_3_00142,level2-MA_2_0017,Tata
+level3-MA_3_00143,level2-MA_2_0018,Tarfaya
+level3-MA_3_00144,level2-MA_2_0019,Ait Ourir
+level3-MA_3_00145,level2-MA_2_0019,Amizmiz
+level3-MA_3_00146,level2-MA_2_0019,Asni
+level3-MA_3_00147,level2-MA_2_0019,NA (Ait Ourir)
+level3-MA_3_00148,level2-MA_2_0019,Tahannaout
+level3-MA_3_00149,level2-MA_2_0020,Chichaoua
+level3-MA_3_00150,level2-MA_2_0020,Imintanoute
+level3-MA_3_00151,level2-MA_2_0020,Majjat
+level3-MA_3_00152,level2-MA_2_0020,Mtouga
+level3-MA_3_00153,level2-MA_2_0020,NA (Chichaoua)
+level3-MA_3_00154,level2-MA_2_0020,NA (Imintanoute)
+level3-MA_3_00155,level2-MA_2_0021,El Kelaa Sr
+level3-MA_3_00156,level2-MA_2_0021,Laattaouia
+level3-MA_3_00157,level2-MA_2_0021,NA (Ben Guerir)
+level3-MA_3_00158,level2-MA_2_0021,NA (Kelaat Sraghna)
+level3-MA_3_00159,level2-MA_2_0021,NA (Laataouia)
+level3-MA_3_00160,level2-MA_2_0021,NA (Sidi Rahhal)
+level3-MA_3_00161,level2-MA_2_0021,NA (Tamallalt)
+level3-MA_3_00162,level2-MA_2_0021,Rehamna
+level3-MA_3_00163,level2-MA_2_0021,Sidi Bou Ot
+level3-MA_3_00164,level2-MA_2_0022,Essaouira
+level3-MA_3_00165,level2-MA_2_0022,NA (Ait Daoud)
+level3-MA_3_00166,level2-MA_2_0022,NA (El Hanchane)
+level3-MA_3_00167,level2-MA_2_0022,NA (Essaouira)
+level3-MA_3_00168,level2-MA_2_0022,NA (Talmest)
+level3-MA_3_00169,level2-MA_2_0022,NA (Tamanar)
+level3-MA_3_00170,level2-MA_2_0022,Tamanar
+level3-MA_3_00171,level2-MA_2_0023,Bour
+level3-MA_3_00172,level2-MA_2_0023,Loudaya
+level3-MA_3_00173,level2-MA_2_0023,NA (Annakhil)
+level3-MA_3_00174,level2-MA_2_0023,NA (Machouar Kasba)
+level3-MA_3_00175,level2-MA_2_0023,NA (Marrakech Medina)
+level3-MA_3_00176,level2-MA_2_0023,NA (Menara Gueliz)
+level3-MA_3_00177,level2-MA_2_0023,NA (Sidi Youssef Ben Ali)
+level3-MA_3_00178,level2-MA_2_0024,Agourai
+level3-MA_3_00179,level2-MA_2_0024,Ain Taoujda
+level3-MA_3_00180,level2-MA_2_0024,El Hajeb
+level3-MA_3_00181,level2-MA_2_0024,NA (Agourai)
+level3-MA_3_00182,level2-MA_2_0024,NA (Ain Taoujdate)
+level3-MA_3_00183,level2-MA_2_0024,NA (El Hajeb)
+level3-MA_3_00184,level2-MA_2_0024,NA (Sbaa Aiyoun)
+level3-MA_3_00185,level2-MA_2_0025,Arfoud
+level3-MA_3_00186,level2-MA_2_0025,Assoul
+level3-MA_3_00187,level2-MA_2_0025,Errachidia
+level3-MA_3_00188,level2-MA_2_0025,Errich
+level3-MA_3_00189,level2-MA_2_0025,Errissani
+level3-MA_3_00190,level2-MA_2_0025,Goulmima
+level3-MA_3_00191,level2-MA_2_0025,Imilchil
+level3-MA_3_00192,level2-MA_2_0025,NA (Arfoud)
+level3-MA_3_00193,level2-MA_2_0025,NA (Boudnib)
+level3-MA_3_00194,level2-MA_2_0025,NA (Errachidia)
+level3-MA_3_00195,level2-MA_2_0025,NA (Errich)
+level3-MA_3_00196,level2-MA_2_0025,NA (Goulmima)
+level3-MA_3_00197,level2-MA_2_0025,NA (Jorf)
+level3-MA_3_00198,level2-MA_2_0025,NA (Moulay Ali Cherif)
+level3-MA_3_00199,level2-MA_2_0025,NA (Tinejdad)
+level3-MA_3_00200,level2-MA_2_0026,Azrou
+level3-MA_3_00201,level2-MA_2_0026,NA (Azrou)
+level3-MA_3_00202,level2-MA_2_0026,NA (Ifrane)
+level3-MA_3_00203,level2-MA_2_0027,El Kbab
+level3-MA_3_00204,level2-MA_2_0027,Khenifra
+level3-MA_3_00205,level2-MA_2_0027,Midelt
+level3-MA_3_00206,level2-MA_2_0027,NA (Khenifra)
+level3-MA_3_00207,level2-MA_2_0027,NA (M'Rirt)
+level3-MA_3_00208,level2-MA_2_0027,NA (Midelt)
+level3-MA_3_00209,level2-MA_2_0028,Ain Orma
+level3-MA_3_00210,level2-MA_2_0028,Meknes Banl
+level3-MA_3_00211,level2-MA_2_0028,NA (Al Ismailia)
+level3-MA_3_00212,level2-MA_2_0028,NA (Al Machouar Stina)
+level3-MA_3_00213,level2-MA_2_0028,NA (Boufakrane)
+level3-MA_3_00214,level2-MA_2_0028,NA (Hamrya)
+level3-MA_3_00215,level2-MA_2_0028,NA (Maknassat Azzaytoun)
+level3-MA_3_00216,level2-MA_2_0028,NA (Moulay Idriss Zerhoun)
+level3-MA_3_00217,level2-MA_2_0028,NA (Ouislane)
+level3-MA_3_00218,level2-MA_2_0028,NA (Toulal)
+level3-MA_3_00219,level2-MA_2_0028,Zerhoun
+level3-MA_3_00220,level2-MA_2_0029,Ahfir
+level3-MA_3_00221,level2-MA_2_0029,Aklim
+level3-MA_3_00222,level2-MA_2_0029,El Aioun
+level3-MA_3_00223,level2-MA_2_0029,NA (Ahfir)
+level3-MA_3_00224,level2-MA_2_0029,NA (Ain Erreggada)
+level3-MA_3_00225,level2-MA_2_0029,NA (Aklim)
+level3-MA_3_00226,level2-MA_2_0029,NA (Berkane)
+level3-MA_3_00227,level2-MA_2_0029,NA (El Aioun Sidi Mellouk)
+level3-MA_3_00228,level2-MA_2_0029,NA (Saidia)
+level3-MA_3_00229,level2-MA_2_0029,NA (Sidi Slimane Echcherraa)
+level3-MA_3_00230,level2-MA_2_0029,NA (Taourirt)
+level3-MA_3_00231,level2-MA_2_0029,Taourirt
+level3-MA_3_00232,level2-MA_2_0030,Bni Tadjite
+level3-MA_3_00233,level2-MA_2_0030,Figuig
+level3-MA_3_00234,level2-MA_2_0030,NA (Bouarfa)
+level3-MA_3_00235,level2-MA_2_0030,NA (Figuig)
+level3-MA_3_00236,level2-MA_2_0031,Ain Bni Mat
+level3-MA_3_00237,level2-MA_2_0031,Debdou
+level3-MA_3_00238,level2-MA_2_0031,Jerada Banl
+level3-MA_3_00239,level2-MA_2_0031,NA (Ain Bni Mathar)
+level3-MA_3_00240,level2-MA_2_0031,NA (Debdou)
+level3-MA_3_00241,level2-MA_2_0031,NA (Jrada)
+level3-MA_3_00242,level2-MA_2_0031,NA (Touissit)
+level3-MA_3_00243,level2-MA_2_0032,Driouch
+level3-MA_3_00244,level2-MA_2_0032,Guelaia
+level3-MA_3_00245,level2-MA_2_0032,Louta
+level3-MA_3_00246,level2-MA_2_0032,NA (Al Aaroui)
+level3-MA_3_00247,level2-MA_2_0032,NA (Bni Ansar)
+level3-MA_3_00248,level2-MA_2_0032,NA (Nador)
+level3-MA_3_00249,level2-MA_2_0032,NA (Zaio)
+level3-MA_3_00250,level2-MA_2_0032,NA (Zeghanghane)
+level3-MA_3_00251,level2-MA_2_0032,Rif
+level3-MA_3_00252,level2-MA_2_0033,NA (Bni Drar)
+level3-MA_3_00253,level2-MA_2_0033,NA (Neima)
+level3-MA_3_00254,level2-MA_2_0033,NA (Ouad Ennachef Sidi Maafa)
+level3-MA_3_00255,level2-MA_2_0033,NA (Oujda Sidi Ziane)
+level3-MA_3_00256,level2-MA_2_0033,NA (Sidi Driss El Qadi)
+level3-MA_3_00257,level2-MA_2_0033,NA (Sidi Yahya)
+level3-MA_3_00258,level2-MA_2_0033,Oujda Banli
+level3-MA_3_00259,level2-MA_2_0034,Khemisset
+level3-MA_3_00260,level2-MA_2_0034,NA (Khemisset)
+level3-MA_3_00261,level2-MA_2_0034,NA (Rommani)
+level3-MA_3_00262,level2-MA_2_0034,NA (Tiflet)
+level3-MA_3_00263,level2-MA_2_0034,Oulmes
+level3-MA_3_00264,level2-MA_2_0034,Rommani
+level3-MA_3_00265,level2-MA_2_0034,Tiflet
+level3-MA_3_00266,level2-MA_2_0035,NA (Agdal Riyad)
+level3-MA_3_00267,level2-MA_2_0035,NA (El Youssoufia)
+level3-MA_3_00268,level2-MA_2_0035,NA (Rabat Hassan)
+level3-MA_3_00269,level2-MA_2_0035,NA (Touarga)
+level3-MA_3_00270,level2-MA_2_0035,NA (Yacoub El Mansour)
+level3-MA_3_00271,level2-MA_2_0036,NA (Hssaine)
+level3-MA_3_00272,level2-MA_2_0036,NA (Sale Bab Lamrissa)
+level3-MA_3_00273,level2-MA_2_0036,NA (Sale Bettana)
+level3-MA_3_00274,level2-MA_2_0036,NA (Sale Laayayda)
+level3-MA_3_00275,level2-MA_2_0036,NA (Sale Tabriquet)
+level3-MA_3_00276,level2-MA_2_0036,Sale Banlie
+level3-MA_3_00277,level2-MA_2_0037,Ain El Aoud
+level3-MA_3_00278,level2-MA_2_0037,NA (Ain El Aouda)
+level3-MA_3_00279,level2-MA_2_0037,NA (Harhoura)
+level3-MA_3_00280,level2-MA_2_0037,NA (Skhirate)
+level3-MA_3_00281,level2-MA_2_0037,NA (Temara)
+level3-MA_3_00282,level2-MA_2_0037,Temara
+level3-MA_3_00283,level2-MA_2_0038,Agadir Banl
+level3-MA_3_00284,level2-MA_2_0038,NA (Agadir)
+level3-MA_3_00285,level2-MA_2_0038,NA (Anza)
+level3-MA_3_00286,level2-MA_2_0038,NA (Bensergao)
+level3-MA_3_00287,level2-MA_2_0038,NA (Tikouine)
+level3-MA_3_00288,level2-MA_2_0039,Ait Baha
+level3-MA_3_00289,level2-MA_2_0039,Belfaa Mass
+level3-MA_3_00290,level2-MA_2_0039,Biougra
+level3-MA_3_00291,level2-MA_2_0039,NA (Ait Baha)
+level3-MA_3_00292,level2-MA_2_0039,NA (Biougra)
+level3-MA_3_00293,level2-MA_2_0040,Ait Melloul
+level3-MA_3_00294,level2-MA_2_0040,NA (Ait Melloul)
+level3-MA_3_00295,level2-MA_2_0040,NA (Dcheira El Jihadia)
+level3-MA_3_00296,level2-MA_2_0040,NA (Inezgane)
+level3-MA_3_00297,level2-MA_2_0041,Amerzgane
+level3-MA_3_00298,level2-MA_2_0041,Boumalne Da
+level3-MA_3_00299,level2-MA_2_0041,NA (Boumalne Dades)
+level3-MA_3_00300,level2-MA_2_0041,NA (Kalaat M'Gouna)
+level3-MA_3_00301,level2-MA_2_0041,NA (Ouarzazate)
+level3-MA_3_00302,level2-MA_2_0041,NA (Taznakht)
+level3-MA_3_00303,level2-MA_2_0041,NA (Tinghir)
+level3-MA_3_00304,level2-MA_2_0041,Ouarzazate
+level3-MA_3_00305,level2-MA_2_0041,Zagora
+level3-MA_3_00306,level2-MA_2_0042,Igherm
+level3-MA_3_00307,level2-MA_2_0042,NA (Ait Iaaza)
+level3-MA_3_00308,level2-MA_2_0042,NA (El Guerdane)
+level3-MA_3_00309,level2-MA_2_0042,NA (Igherm)
+level3-MA_3_00310,level2-MA_2_0042,NA (Oulad Berhil)
+level3-MA_3_00311,level2-MA_2_0042,NA (Oulad Teima)
+level3-MA_3_00312,level2-MA_2_0042,NA (Taliouine)
+level3-MA_3_00313,level2-MA_2_0042,NA (Taroudannt)
+level3-MA_3_00314,level2-MA_2_0042,Oulad Berhi
+level3-MA_3_00315,level2-MA_2_0042,Oulad Teima
+level3-MA_3_00316,level2-MA_2_0042,Taliouine
+level3-MA_3_00317,level2-MA_2_0042,Taroudannt
+level3-MA_3_00318,level2-MA_2_0043,Anezi
+level3-MA_3_00319,level2-MA_2_0043,Ifni
+level3-MA_3_00320,level2-MA_2_0043,Lakhsas
+level3-MA_3_00321,level2-MA_2_0043,NA (Lakhsas)
+level3-MA_3_00322,level2-MA_2_0043,NA (Sidi Ifni)
+level3-MA_3_00323,level2-MA_2_0043,NA (Tafraout)
+level3-MA_3_00324,level2-MA_2_0043,NA (Tiznit)
+level3-MA_3_00325,level2-MA_2_0043,Tafraout
+level3-MA_3_00326,level2-MA_2_0043,Tiznit
+level3-MA_3_00327,level2-MA_2_0044,NA (Agdz)
+level3-MA_3_00328,level2-MA_2_0044,NA (Zagora)
+level3-MA_3_00329,level2-MA_2_0044,Zagora
+level3-MA_3_00330,level2-MA_2_0045,Azilal
+level3-MA_3_00331,level2-MA_2_0045,Bzou
+level3-MA_3_00332,level2-MA_2_0045,Demnate
+level3-MA_3_00333,level2-MA_2_0045,NA (Azilal)
+level3-MA_3_00334,level2-MA_2_0045,NA (Demnate)
+level3-MA_3_00335,level2-MA_2_0045,Ouaouizaght
+level3-MA_3_00336,level2-MA_2_0046,Beni Mellal
+level3-MA_3_00337,level2-MA_2_0046,Bni Moussa
+level3-MA_3_00338,level2-MA_2_0046,El Ksiba
+level3-MA_3_00339,level2-MA_2_0046,Fquih Ben S
+level3-MA_3_00340,level2-MA_2_0046,Kasba Tadla
+level3-MA_3_00341,level2-MA_2_0046,NA (Beni Mellal)
+level3-MA_3_00342,level2-MA_2_0046,NA (El Ksiba)
+level3-MA_3_00343,level2-MA_2_0046,NA (Fquih Ben Salah)
+level3-MA_3_00344,level2-MA_2_0046,NA (Kasba Tadla)
+level3-MA_3_00345,level2-MA_2_0046,NA (Oulad Ayad)
+level3-MA_3_00346,level2-MA_2_0046,NA (Souk Sebt Oulad Nemma)
+level3-MA_3_00347,level2-MA_2_0046,NA (Zaouiat Cheikh)
+level3-MA_3_00348,level2-MA_2_0047,Bab Berred
+level3-MA_3_00349,level2-MA_2_0047,Bab Taza
+level3-MA_3_00350,level2-MA_2_0047,Bou Ahmed
+level3-MA_3_00351,level2-MA_2_0047,Moqrissat
+level3-MA_3_00352,level2-MA_2_0047,NA (Chefchaouene)
+level3-MA_3_00353,level2-MA_2_0048,Fahs
+level3-MA_3_00354,level2-MA_2_0048,NA (Bni Makada)
+level3-MA_3_00355,level2-MA_2_0049,Ksar El Keb
+level3-MA_3_00356,level2-MA_2_0049,Larache
+level3-MA_3_00357,level2-MA_2_0049,NA (Ksar El Kebir)
+level3-MA_3_00358,level2-MA_2_0049,NA (Larache)
+level3-MA_3_00359,level2-MA_2_0050,Jebala
+level3-MA_3_00360,level2-MA_2_0050,NA (Fnidq)
+level3-MA_3_00361,level2-MA_2_0050,NA (M'Diq)
+level3-MA_3_00362,level2-MA_2_0050,NA (Martil)
+level3-MA_3_00363,level2-MA_2_0050,NA (Ouad Laou)
+level3-MA_3_00364,level2-MA_2_0050,NA (Tetouan Al Azhar)
+level3-MA_3_00365,level2-MA_2_0050,NA (Tetouan Sidi Al Mandri)
+level3-MA_3_00366,level2-MA_2_0050,Tetouan
+level3-MA_3_00367,level2-MA_2_0051,Assilah
+level3-MA_3_00368,level2-MA_2_0051,Boukhalef
+level3-MA_3_00369,level2-MA_2_0051,NA (Assilah)
+level3-MA_3_00370,level2-MA_2_0051,NA (Charf)
+level3-MA_3_00371,level2-MA_2_0051,NA (Tanger)
+level3-MA_3_00372,level2-MA_2_0052,Bni Boufrah
+level3-MA_3_00373,level2-MA_2_0052,Bni Ouriagh
+level3-MA_3_00374,level2-MA_2_0052,NA (Al Hoceima)
+level3-MA_3_00375,level2-MA_2_0052,NA (Bni Bouayach)
+level3-MA_3_00376,level2-MA_2_0052,NA (Imzouren)
+level3-MA_3_00377,level2-MA_2_0052,NA (Targuist)
+level3-MA_3_00378,level2-MA_2_0052,Targuist
+level3-MA_3_00379,level2-MA_2_0053,Ghafsai
+level3-MA_3_00380,level2-MA_2_0053,Kariat Ba M
+level3-MA_3_00381,level2-MA_2_0053,NA (Ghafsai)
+level3-MA_3_00382,level2-MA_2_0053,NA (Kariat Ba Mohamed)
+level3-MA_3_00383,level2-MA_2_0053,NA (Taouante)
+level3-MA_3_00384,level2-MA_2_0053,NA (Thar Essouk)
+level3-MA_3_00385,level2-MA_2_0053,NA (Tissa)
+level3-MA_3_00386,level2-MA_2_0053,Taounate
+level3-MA_3_00387,level2-MA_2_0053,Tissa
+level3-MA_3_00388,level2-MA_2_0054,Aknoul
+level3-MA_3_00389,level2-MA_2_0054,Guercif
+level3-MA_3_00390,level2-MA_2_0054,NA (Aknoul)
+level3-MA_3_00391,level2-MA_2_0054,NA (Guercif)
+level3-MA_3_00392,level2-MA_2_0054,NA (Ouad Amlil)
+level3-MA_3_00393,level2-MA_2_0054,NA (Tahla)
+level3-MA_3_00394,level2-MA_2_0054,NA (Taza Al Oulia)
+level3-MA_3_00395,level2-MA_2_0054,NA (Taza El Jadida)
+level3-MA_3_00396,level2-MA_2_0054,Ouad Amlil
+level3-MA_3_00397,level2-MA_2_0054,Tahla
+level3-MA_3_00398,level2-MA_2_0054,Tainaste
+level3-MA_3_00399,level2-MA_2_0054,Taza
+country-MA,continent-AFR,Morocco

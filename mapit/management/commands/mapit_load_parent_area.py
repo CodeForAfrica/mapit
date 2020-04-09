@@ -33,7 +33,7 @@ def process(area_code, parent_area_code):
         parent = Area.objects.get(codes__code=parent_area_code, codes__type__code='AFR')
     except Area.DoesNotExist:
         # parent_area does not exist
-        continue
+        pass
 
     if not parent:
         raise Exception("Area %s does not have a parent?" % (self.pp_area(area)))

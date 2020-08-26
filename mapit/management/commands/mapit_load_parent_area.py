@@ -34,7 +34,7 @@ class Command(BaseCommand):
                 area = Area.objects.get(codes__code=area_code, codes__type__code='AFR')
             except Area.DoesNotExist:
                 # An area that existed at the time of the mapping, but no longer
-                return
+                pass
 
             try:
                 parent = Area.objects.get(codes__code=parent_area_code, codes__type__code='AFR')
@@ -43,7 +43,8 @@ class Command(BaseCommand):
                 pass
 
             if not parent:
-                raise Exception("Area %s does not have a parent?" % (self.pp_area(area)))
+                self.stdout.write("------No parent found: Area %s does not have a parent?----------" % (self.pp_area(area)))
+                continue
             if area.parent_area != parent:
                 self.stdout.write("Parent for %s was %s, is now %s" % (
                     self.pp_area(area), self.pp_area(area.parent_area), self.pp_area(parent)))
